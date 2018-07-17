@@ -1,0 +1,431 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>拍胸｀脯 - 站务交流 -  两学一做烹饪交流论坛 - </title>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-82266919-2', 'auto');
+  ga('send', 'pageview');
+
+</script><link href="http://fishlovemeat.site/forum.php?mod=viewthread&tid=29009" rel="canonical" />
+<meta name="keywords" content="拍胸｀脯" />
+<meta name="description" content=" 拍胸｀脯 ,两学一做烹饪交流论坛" />
+<meta name="generator" content="Discuz! X3.2" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2013 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://fishlovemeat.site/" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_common.css?tE9" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_forum_viewthread.css?tE9" /><link rel="stylesheet" id="css_extstyle" type="text/css" href="./template/default/style/t2/style.css" /><script type="text/javascript">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'tE9', charset = 'utf-8', discuz_uid = '191058', cookiepre = 'xyQi_2132_', cookiedomain = '', cookiepath = '/', showusercard = '0', attackevasive = '0', disallowfloat = 'newthread|reply', creditnotice = '', defaultstyle = './template/default/style/t2', REPORTURL = 'aHR0cDovL2Zpc2hsb3ZlbWVhdC5zaXRlL2ZvcnVtLnBocD9tb2Q9dmlld3RocmVhZCZ0aWQ9MjkwMDk=', SITEURL = 'http://fishlovemeat.site/', JSPATH = 'data/cache/', CSSPATH = 'data/cache/style_', DYNAMICURL = '';</script>
+<script src="data/cache/common.js?tE9" type="text/javascript"></script>
+<meta name="application-name" content="两学一做烹饪交流论坛" />
+<meta name="msapplication-tooltip" content="两学一做烹饪交流论坛" />
+<meta name="msapplication-task" content="name=门户;action-uri=http://fishlovemeat.site/portal.php;icon-uri=http://fishlovemeat.site/static/image/common/portal.ico" /><meta name="msapplication-task" content="name=首页;action-uri=http://fishlovemeat.site/forum.php;icon-uri=http://fishlovemeat.site/static/image/common/bbs.ico" />
+<meta name="msapplication-task" content="name=家园;action-uri=http://fishlovemeat.site/home.php;icon-uri=http://fishlovemeat.site/static/image/common/home.ico" /><script src="data/cache/forum.js?tE9" type="text/javascript"></script>
+</head>
+
+<body id="nv_forum" class="pg_viewthread" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div id="toptb" class="cl">
+<div class="wp">
+<div class="z"></div>
+<div class="y">
+<a id="switchblind" href="javascript:;" onclick="toggleBlind(this)" title="开启辅助访问" class="switchblind">开启辅助访问</a>
+<a href="javascript:;" id="switchwidth" onclick="widthauto(this)" title="切换到宽版" class="switchwidth">切换到宽版</a>
+<a id="sslct" href="javascript:;" onmouseover="delayShow(this, function() {showMenu({'ctrlid':'sslct','pos':'34!'})});">切换风格</a></div>
+</div>
+</div>
+
+<ul id="myprompt_menu" class="p_pop" style="display: none;">
+<li><a href="home.php?mod=space&amp;do=pm" id="pm_ntc" style="background-repeat: no-repeat; background-position: 0 50%;"><em class="prompt_news_0"></em>消息</a></li>
+<li><a href="home.php?mod=follow&amp;do=follower"><em class="prompt_follower_0"></em>新听众</a></li>
+<li class="ignore_noticeli"><a href="javascript:;" onclick="setcookie('ignore_notice', 1);hideMenu('myprompt_menu')" title="暂不提醒"><em class="ignore_notice"></em></a></li>
+</ul>
+<div id="sslct_menu" class="cl p_pop" style="display: none;">
+<span class="sslct_btn" onclick="extstyle('./template/default/style/t2')" title="青"><i style='background:#429296'></i></span>
+<span class="sslct_btn" onclick="extstyle('./template/default/style/t4')" title="紫"><i style='background:#9934B7'></i></span>
+<span class="sslct_btn" onclick="extstyle('./template/default/style/t1')" title="红"><i style='background:#BA350F'></i></span>
+<span class="sslct_btn" onclick="extstyle('./template/default/style/t3')" title="橙"><i style='background:#FE9500'></i></span>
+<span class="sslct_btn" onclick="extstyle('./template/default/style/t5')" title="蓝"><i style='background:#0053B9'></i></span>
+</div>
+<ul id="myitem_menu" class="p_pop" style="display: none;">
+<li><a href="forum.php?mod=guide&amp;view=my">帖子</a></li>
+<li><a href="home.php?mod=space&amp;do=favorite&amp;view=me">收藏</a></li>
+<li><a href="home.php?mod=space&amp;do=friend">好友</a></li>
+</ul>
+<div id="qmenu_menu" class="p_pop " style="display: none;">
+<ul class="cl nav"><li><a href="home.php?mod=space&do=friend" style="background-image:url(http://fishlovemeat.site/static/image/feed/friend_b.png) !important">好友</a></li>
+<li><a href="forum.php?mod=guide&view=my" style="background-image:url(http://fishlovemeat.site/static/image/feed/thread_b.png) !important">帖子</a></li>
+<li><a href="home.php?mod=space&do=favorite&view=me" style="background-image:url(http://fishlovemeat.site/static/image/feed/favorite_b.png) !important">收藏</a></li>
+<li><a href="home.php?mod=medal" target="_blank" style="background-image:url(http://fishlovemeat.site/static/image/feed/medal_b.png) !important">装备</a></li>
+<li><a href="home.php?mod=task" style="background-image:url(http://fishlovemeat.site/static/image/feed/task_b.png) !important">任务</a></li>
+<li><a href="home.php" style="background-image:url(http://fishlovemeat.site/static/image/feed/feed_b.png) !important">动态</a></li>
+<li><a href="portal.php" style="background-image:url(http://fishlovemeat.site/static/image/feed/portal_b.png) !important">门户</a></li>
+<li><a href="forum.php?mod=guide" style="background-image:url(http://fishlovemeat.site/static/image/feed/guide_b.png) !important">导读</a></li>
+<li><a href="misc.php?mod=ranklist" style="background-image:url(http://fishlovemeat.site/static/image/feed/ranklist_b.png) !important">排行榜</a></li>
+</ul>
+<div id="fjump_menu" class="btda"></div></div><div id="hd">
+<div class="wp">
+<div class="hdc cl"><h2><a href="./" title="两学一做烹饪交流论坛"><img src="static/image/common/logo.png" alt="两学一做烹饪交流论坛" border="0" /></a></h2><div id="um">
+<div class="avt y"><a href="home.php?mod=space&amp;uid=191058"><img src="http://139.162.49.50/uc_center/avatar.php?uid=191058&size=small" /></a></div>
+<p>
+<strong class="vwmy"><a href="home.php?mod=space&amp;uid=191058" target="_blank" title="访问我的空间">willyou</a></strong>
+<span id="loginstatus">
+<a id="loginstatusid" href="member.php?mod=switchstatus" title="切换在线状态" onclick="ajaxget(this.href, 'loginstatus');return false;" class="xi2"></a>
+</span>
+<span class="pipe">|</span><a href="javascript:;" id="myitem" class="showmenu" onmouseover="showMenu({'ctrlid':'myitem'});">我的</a>
+<span class="pipe">|</span><a href="home.php?mod=spacecp">设置</a>
+<span class="pipe">|</span><a href="home.php?mod=space&amp;do=pm" id="pm_ntc">消息</a>
+<span class="pipe">|</span><a href="home.php?mod=space&amp;do=notice" id="myprompt" class="a showmenu" onmouseover="showMenu({'ctrlid':'myprompt'});">提醒</a><span id="myprompt_check"></span>
+<span class="pipe">|</span><a href="portal.php?mod=portalcp">门户管理</a>
+<span class="pipe">|</span><a href="member.php?mod=logging&amp;action=logout&amp;formhash=5e3fa289">退出</a>
+</p>
+<p>
+<a href="home.php?mod=spacecp&amp;ac=credit&amp;showcredit=1" id="extcreditmenu" onmouseover="delayShow(this, showCreditmenu);" class="showmenu">积分: 60</a>
+<span class="pipe">|</span><a href="home.php?mod=spacecp&amp;ac=usergroup" id="g_upmine" class="showmenu" onmouseover="delayShow(this, showUpgradeinfo)">用户组: 红烧鱼</a>
+</p>
+</div>
+</div>
+
+<div id="nv">
+<a href="javascript:;" id="qmenu" onmouseover="delayShow(this, function () {showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});showForummenu(16);})">快捷导航</a>
+<ul><li class="a" id="mn_forum" ><a href="forum.php" hidefocus="true" title="BBS"  >首页<span>BBS</span></a></li><li id="mn_portal" ><a href="portal.php" hidefocus="true" title="Portal"  >门户<span>Portal</span></a></li><li id="mn_forum_10" ><a href="forum.php?mod=guide" hidefocus="true" title="Guide"  >导读<span>Guide</span></a></li><li id="mn_N12a7" ><a href="misc.php?mod=ranklist" hidefocus="true" title="Ranklist"  >排行榜<span>Ranklist</span></a></li></ul>
+</div>
+<div class="p_pop h_pop" id="mn_userapp_menu" style="display: none"></div><div id="mu" class="cl">
+</div><div id="scbar" class="cl">
+<form id="scbar_form" method="post" autocomplete="off" onsubmit="searchFocus($('scbar_txt'))" action="search.php?searchsubmit=yes" target="_blank">
+<input type="hidden" name="mod" id="scbar_mod" value="search" />
+<input type="hidden" name="formhash" value="5e3fa289" />
+<input type="hidden" name="srchtype" value="title" />
+<input type="hidden" name="srhfid" value="16" />
+<input type="hidden" name="srhlocality" value="forum::viewthread" />
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="scbar_icon_td"></td>
+<td class="scbar_txt_td"><input type="text" name="srchtxt" id="scbar_txt" value="请输入搜索内容" autocomplete="off" x-webkit-speech speech /></td>
+<td class="scbar_type_td"><a href="javascript:;" id="scbar_type" class="xg1" onclick="showMenu(this.id)" hidefocus="true">搜索</a></td>
+<td class="scbar_btn_td"><button type="submit" name="searchsubmit" id="scbar_btn" sc="1" class="pn pnc" value="true"><strong class="xi2">搜索</strong></button></td>
+<td class="scbar_hot_td">
+<div id="scbar_hot">
+<strong class="xw1">热搜: </strong>
+
+<a href="search.php?mod=forum&amp;srchtxt=%E7%89%88%E8%A7%84&amp;formhash=5e3fa289&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">版规</a>
+
+</div>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<ul id="scbar_type_menu" class="p_pop" style="display: none;"><li><a href="javascript:;" rel="curforum" fid="16" >本版</a></li><li><a href="javascript:;" rel="forum" class="curtype">帖子</a></li><li><a href="javascript:;" rel="user">用户</a></li></ul>
+<script type="text/javascript">
+initSearchmenu('scbar', '');
+</script>
+</div>
+</div>
+
+
+<div id="wp" class="wp">
+<script type="text/javascript">var fid = parseInt('16'), tid = parseInt('29009');</script>
+
+<script src="data/cache/forum_viewthread.js?tE9" type="text/javascript"></script>
+<script type="text/javascript">zoomstatus = parseInt(0);var imagemaxwidth = '600';var aimgcount = new Array();</script>
+
+<style id="diy_style" type="text/css"></style>
+<!--[diy=diynavtop]--><div id="diynavtop" class="area"></div><!--[/diy]-->
+<div id="pt" class="bm cl">
+<div class="z">
+<a href="./" class="nvhm" title="首页">两学一做烹饪交流论坛</a><em>&raquo;</em><a href="forum.php">首页</a> <em>&rsaquo;</em> <a href="forum.php?gid=15">综合区</a> <em>&rsaquo;</em> <a href="forum.php?mod=forumdisplay&amp;fid=16">站务交流</a> <em>&rsaquo;</em> <a href="forum.php?mod=viewthread&amp;tid=29009">拍胸｀脯</a>
+</div>
+</div>
+
+<style id="diy_style" type="text/css"></style>
+<div class="wp">
+<!--[diy=diy1]--><div id="diy1" class="area"></div><!--[/diy]-->
+</div>
+
+<div id="ct" class="wp cl">
+<div id="pgt" class="pgs mbm cl ">
+<div class="pgt"></div>
+<span class="y pgb" id="visitedforums" onmouseover="$('visitedforums').id = 'visitedforumstmp';this.id = 'visitedforums';showMenu({'ctrlid':this.id,'pos':'34'})"><a href="forum.php?mod=forumdisplay&amp;fid=16">返回列表</a></span>
+<a id="newspecial" onmouseover="$('newspecial').id = 'newspecialtmp';this.id = 'newspecial';showMenu({'ctrlid':this.id})" onclick="location.href='forum.php?mod=post&action=newthread&fid=16';return false;" href="javascript:;" title="发新帖"><img src="static/image/common/pn_post.png" alt="发新帖" /></a><a id="post_reply" onclick="showWindow('reply', 'forum.php?mod=post&action=reply&fid=16&tid=29009')" href="javascript:;" title="回复"><img src="static/image/common/pn_reply.png" alt="回复" /></a>
+</div>
+
+<ul class="p_pop" id="newspecial_menu" style="display: none">
+<li><a href="forum.php?mod=post&amp;action=newthread&amp;fid=16">发表帖子</a></li></ul>
+
+
+<div id="postlist" class="pl bm">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="plc ptm pbn vwthd">
+<div class="y">
+<a href="forum.php?mod=viewthread&amp;action=printable&amp;tid=29009" title="打印" target="_blank"><img src="static/image/common/print.png" alt="打印" class="vm" /></a>
+<a href="forum.php?mod=redirect&amp;goto=nextoldset&amp;tid=29009" title="上一主题"><img src="static/image/common/thread-prev.png" alt="上一主题" class="vm" /></a>
+<a href="forum.php?mod=redirect&amp;goto=nextnewset&amp;tid=29009" title="下一主题"><img src="static/image/common/thread-next.png" alt="下一主题" class="vm" /></a>
+</div>
+<span class="xg1 side_btn">
+<a onclick="setcookie('close_leftinfo', 2);location.reload();" title="开启左侧" class="btn_s_open" href="javascript:;"><img src="static/image/common/control_r.png" alt="开启左侧" class="vm" /></a>
+</span>
+<h1 class="ts">
+<a href="forum.php?mod=forumdisplay&amp;fid=16&amp;filter=typeid&amp;typeid=79">[灌水闲聊]</a>
+<a href="forum.php?mod=forumdisplay&amp;fid=16&amp;filter=sortid&amp;sortid=1">[主题]</a>
+<span id="thread_subject">拍胸｀脯</span>
+</h1>
+<span class="xg1">
+<a href="forum.php?mod=viewthread&amp;tid=29009" onclick="return copyThreadUrl(this, '两学一做烹饪交流论坛')" >[复制链接]</a>
+</span>
+</td>
+</tr>
+</table>
+
+
+<table cellspacing="0" cellpadding="0" class="ad">
+<tr>
+<td class="pls">
+</td>
+</tr>
+</table><div id="post_1920527" ><table id="pid1920527" class="plhin" summary="pid1920527" cellspacing="0" cellpadding="0">
+<tr>
+<td class="plc" style="width:100%">
+<div class="pi" style="height:48px">
+<div id="fj" class="y">
+<label class="z">电梯直达</label>
+<input type="text" class="px p_fre z" size="2" onkeyup="$('fj_btn').href='forum.php?mod=redirect&ptid=29009&authorid=0&postno='+this.value" onkeydown="if(event.keyCode==13) {window.location=$('fj_btn').href;return false;}" title="跳转到指定楼层" />
+<a href="javascript:;" id="fj_btn" class="z" title="跳转到指定楼层"><img src="static/image/common/fj_btn.png" alt="跳转到指定楼层" class="vm" /></a>
+</div>
+<strong>
+<a href="forum.php?mod=viewthread&tid=29009"   id="postnum1920527" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+楼主</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<a href="home.php?mod=space&amp;uid=199664" target="_blank" class="xi2 z" style="padding-right:10px;">macadamia</a>
+<img class="authicn vm" id="authicon1920527" src="static/image/common/online_member.gif" />
+<em id="authorposton1920527">发表于 2018-2-27 18:41</em>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=29009&amp;page=1&amp;authorid=199664" rel="nofollow">只看该作者</a>
+<span class="none"><img src="static/image/common/arw_r.gif" class="vm" alt="回帖奖励" /></span>
+<span class="pipe show">|</span><a href="forum.php?mod=viewthread&amp;tid=29009&amp;extra=&amp;ordertype=1"  class="show">倒序浏览</a>
+<span class="pipe show">|</span><a href="javascript:;" onclick="readmode($('thread_subject').innerHTML, 1920527);" class="show">阅读模式</a>
+</div>
+</div>
+</div><div class="pct"><style type="text/css">.pcb{margin-right:0}</style><div class="pcb">
+ 
+一次就好<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_1920527">
+一次就好 我陪你去看天荒地老～<font class="jammer">( Y. ~7 f; Q+ A4 K2 q: i</font><br />
+</td></tr></table>
+
+
+</div>
+<div id="comment_1920527" class="cm">
+</div>
+
+<div id="post_rate_div_1920527"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+<div id="p_btn" class="mtw mbm hm cl">
+
+<a href="home.php?mod=spacecp&amp;ac=favorite&amp;type=thread&amp;id=29009&amp;formhash=5e3fa289" id="k_favorite" onclick="showWindow(this.id, this.href, 'get', 0);" onmouseover="this.title = $('favoritenumber').innerHTML + ' 人收藏'" title="收藏本帖"><i><img src="static/image/common/fav.gif" alt="收藏" />收藏<span id="favoritenumber" style="display:none">0</span></i></a>
+<a href="javascript:;" id="ak_rate" onclick="showWindow('rate', 'forum.php?mod=misc&action=rate&tid=29009&pid=1920527', 'get', -1);return false;" title="评分表立场"><i><img src="static/image/common/agree.gif" alt="评分" />评分</i></a>
+<a id="recommend_add" href="forum.php?mod=misc&amp;action=recommend&amp;do=add&amp;tid=29009&amp;hash=5e3fa289" onclick="ajaxmenu(this, 3000, 1, 0, '43', 'recommendupdate(1)');return false;" onmouseover="this.title = $('recommendv_add').innerHTML + ' 人鲜花'" title="顶一下"><i><img src="static/image/common/rec_add.gif" alt="鲜花" />鲜花<span id="recommendv_add" style="display:none">0</span></i></a>
+</div>
+</td>
+</tr>
+<tr id="_postposition1920527"></tr>
+<tr>
+<td class="plc" style="overflow:visible;--> width:100%">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="cmmnt" href="forum.php?mod=misc&amp;action=comment&amp;tid=29009&amp;pid=1920527&amp;extra=&amp;page=1" onclick="showWindow('comment', this.href, 'get', 0)">点评</a><a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=16&amp;tid=29009&amp;reppost=1920527&amp;extra=&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" onclick="showWindow('miscreport1920527', 'misc.php?mod=report&rtype=post&rid=1920527&tid=29009&fid=16', 'get', -1);return false;">举报</a>
+</p>
+
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+</tr>
+</table>
+</div><div id="postlistreply" class="pl"><div id="post_new" class="viewthread_table" style="display: none"></div></div>
+</div>
+
+
+<form method="post" autocomplete="off" name="modactions" id="modactions">
+<input type="hidden" name="formhash" value="5e3fa289" />
+<input type="hidden" name="optgroup" />
+<input type="hidden" name="operation" />
+<input type="hidden" name="listextra" value="" />
+<input type="hidden" name="page" value="1" />
+</form>
+
+
+
+<div class="pgs mtm mbm cl">
+<span class="pgb y" id="visitedforumstmp" onmouseover="$('visitedforums').id = 'visitedforumstmp';this.id = 'visitedforums';showMenu({'ctrlid':this.id,'pos':'21'})"><a href="forum.php?mod=forumdisplay&amp;fid=16">返回列表</a></span>
+<a id="newspecialtmp" onmouseover="$('newspecial').id = 'newspecialtmp';this.id = 'newspecial';showMenu({'ctrlid':this.id})" onclick="location.href='forum.php?mod=post&action=newthread&fid=16';return false;" href="javascript:;" title="发新帖"><img src="static/image/common/pn_post.png" alt="发新帖" /></a>
+<a id="post_replytmp" onclick="showWindow('reply', 'forum.php?mod=post&action=reply&fid=16&tid=29009')" href="javascript:;" title="回复"><img src="static/image/common/pn_reply.png" alt="回复" /></a>
+</div>
+
+<!--[diy=diyfastposttop]--><div id="diyfastposttop" class="area"></div><!--[/diy]-->
+<script type="text/javascript">
+var postminchars = parseInt('4');
+var postmaxchars = parseInt('30000');
+var disablepostctrl = parseInt('0');
+</script>
+
+<div id="f_pst" class="pl bm bmw">
+<form method="post" autocomplete="off" id="fastpostform" action="forum.php?mod=post&amp;action=reply&amp;fid=16&amp;tid=29009&amp;extra=&amp;replysubmit=yes&amp;infloat=yes&amp;handlekey=fastpost" onSubmit="return fastpostvalidate(this)">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls">
+<div class="avatar avtm"><img src="http://139.162.49.50/uc_center/avatar.php?uid=191058&size=middle" /></div></td>
+<td class="plc">
+
+<span id="fastpostreturn"></span>
+
+<div class="cl">
+<div id="fastsmiliesdiv" class="y"><div id="fastsmiliesdiv_data"><div id="fastsmilies"></div></div></div><div class="hasfsl" id="fastposteditor">
+<div class="tedt mtn">
+<div class="bar">
+<span class="y">
+<a href="forum.php?mod=post&amp;action=reply&amp;fid=16&amp;tid=29009" onclick="return switchAdvanceMode(this.href)">高级模式</a>
+</span><script src="data/cache/seditor.js?tE9" type="text/javascript"></script>
+<div class="fpd">
+<a href="javascript:;" title="文字加粗" class="fbld" onclick="seditor_insertunit('fastpost', '[b]', '[/b]');doane(event);">B</a>
+<a href="javascript:;" title="设置文字颜色" class="fclr" id="fastpostforecolor" onclick="showColorBox(this.id, 2, 'fastpost');doane(event);">Color</a>
+<a id="fastpostimg" href="javascript:;" title="图片" class="fmg" onclick="seditor_menu('fastpost', 'img');doane(event);">Image</a>
+<a id="fastposturl" href="javascript:;" title="添加链接" class="flnk" onclick="seditor_menu('fastpost', 'url');doane(event);">Link</a>
+<a id="fastpostquote" href="javascript:;" title="引用" class="fqt" onclick="seditor_menu('fastpost', 'quote');doane(event);">Quote</a>
+<a id="fastpostcode" href="javascript:;" title="代码" class="fcd" onclick="seditor_menu('fastpost', 'code');doane(event);">Code</a>
+<a href="javascript:;" class="fsml" id="fastpostsml" onclick="showMenu({'ctrlid':this.id,'evt':'click','layer':2});return false;">Smilies</a>
+<script type="text/javascript" reload="1">smilies_show('fastpostsmiliesdiv', 8, 'fastpost');</script>
+<script src="data/cache/at.js?tE9" type="text/javascript"></script>
+<a id="fastpostat" href="javascript:;" title="@朋友" class="fat" onclick="seditor_menu('fastpost', 'at');doane(event);">@朋友</a>
+</div></div>
+<div class="area">
+<textarea rows="6" cols="80" name="message" id="fastpostmessage" onKeyDown="seditor_ctlent(event, 'fastpostvalidate($(\'fastpostform\'))');" tabindex="4" class="pt"></textarea>
+</div>
+</div>
+</div>
+</div>
+<div id="seccheck_fastpost">
+</div>
+
+
+<input type="hidden" name="formhash" value="5e3fa289" />
+<input type="hidden" name="usesig" value="1" />
+<input type="hidden" name="subject" value="  " />
+<p class="ptm pnpost">
+<a href="home.php?mod=spacecp&amp;ac=credit&amp;op=rule&amp;fid=16" class="y" target="_blank">本版积分规则</a>
+<button type="submit" onmouseover="checkpostrule('seccheck_fastpost', 'ac=reply');this.onmouseover=null" name="replysubmit" id="fastpostsubmit" class="pn pnc vm" value="replysubmit" tabindex="5"><strong>发表回复</strong></button>
+<label for="isanonymous"><input type="checkbox" name="isanonymous" id="isanonymous" class="pc" value="1">使用匿名发帖</label>
+<label for="fastpostrefresh"><input id="fastpostrefresh" type="checkbox" class="pc" />回帖后跳转到最后一页</label>
+<script type="text/javascript">if(getcookie('fastpostrefresh') == 1) {$('fastpostrefresh').checked=true;}</script>
+</p>
+</td>
+</tr>
+</table>
+</form>
+</div>
+
+
+<div id="visitedforums_menu" class="p_pop blk cl" style="display: none;">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td id="v_forums">
+<h3 class="mbn pbn bbda xg1">浏览过的版块</h3>
+<ul class="xl xl1">
+<li><a href="forum.php?mod=forumdisplay&fid=13">红烧青鱼</a></li></ul>
+</td>
+</tr>
+</table>
+</div>
+<div id="md_15_menu" class="tip tip_4" style="display: none;">
+<div class="tip_horn"></div>
+<div class="tip_c">
+<h4>10积分礼包</h4>
+<p></p>
+</div>
+</div>
+<script type="text/javascript">
+new lazyload();
+</script>
+<script type="text/javascript">document.onkeyup = function(e){keyPageScroll(e, 0, 0, 'forum.php?mod=viewthread&tid=29009', 1);}</script>
+</div>
+
+<div class="wp mtn">
+<!--[diy=diy3]--><div id="diy3" class="area"></div><!--[/diy]-->
+</div>
+
+<script type="text/javascript">
+function succeedhandle_followmod(url, msg, values) {
+var fObj = $('followmod_'+values['fuid']);
+if(values['type'] == 'add') {
+fObj.innerHTML = '不收听';
+fObj.href = 'home.php?mod=spacecp&ac=follow&op=del&fuid='+values['fuid'];
+} else if(values['type'] == 'del') {
+fObj.innerHTML = '收听TA';
+fObj.href = 'home.php?mod=spacecp&ac=follow&op=add&hash=5e3fa289&fuid='+values['fuid'];
+}
+}
+fixed_top_nv();
+</script>	</div>
+<div id="ft" class="wp cl">
+<div id="flk" class="y">
+<p>
+<a href="forum.php?mobile=yes" title="我是手机版耶耶耶~" >手机版</a><span class="pipe">|</span><a href="javascript:;" title="^^"  onclick="showWindow('miscreport', 'misc.php?mod=report&url='+REPORTURL);return false;">举报</a><span class="pipe">|</span><a href="forum.php?mod=misc&action=showdarkroom" title="不听话就关小黑屋！"  style="color: gray">小黑屋</a><span class="pipe">|</span><strong><a href="" target="_blank">两学一做<°)))>彡 </a></strong>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?6dc8c593faac02555277212cac149826";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script></p>
+<p class="xs0">
+GMT+8, 2018-7-17 09:29<span id="debuginfo">
+, Processed in 0.049803 second(s), 29 queries
+.
+</span>
+</p>
+</div>
+<div id="frt">
+<p>Powered by <strong><a href="http://www.discuz.net" target="_blank">Discuz!</a></strong> <em>X3.2</em></p>
+<p class="xs0">&copy; 2001-2013 <a href="http://www.comsenz.com" target="_blank">Comsenz Inc.</a></p>
+</div><script type="text/javascript">
+var invisiblestatus = '在线';
+var loginstatusobj = $('loginstatusid');
+if(loginstatusobj != undefined && loginstatusobj != null) loginstatusobj.innerHTML = invisiblestatus;
+</script>
+</div>
+<div class="focus plugin" id="ip_notice"></div>
+<script type="text/javascript">ipNotice();</script>
+<div id="scrolltop">
+<span><a href="forum.php?mod=post&amp;action=reply&amp;fid=16&amp;tid=29009&amp;extra=&amp;page=1" onclick="showWindow('reply', this.href)" class="replyfast" title="快速回复"><b>快速回复</b></a></span>
+<span hidefocus="true"><a title="返回顶部" onclick="window.scrollTo('0','0')" class="scrolltopa" ><b>返回顶部</b></a></span>
+<span>
+<a href="forum.php?mod=forumdisplay&amp;fid=16" hidefocus="true" class="returnlist" title="返回列表"><b>返回列表</b></a>
+</span>
+</div>
+<script type="text/javascript">_attachEvent(window, 'scroll', function () { showTopLink(); });checkBlind();</script>
+</body>
+</html>

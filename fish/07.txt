@@ -1,0 +1,1683 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>擦火 - 红烧青鱼 -  两学一做烹饪交流论坛 - </title>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-82266919-2', 'auto');
+  ga('send', 'pageview');
+
+</script><link href="http://fishlovemeat.site/forum.php?mod=viewthread&tid=29007" rel="canonical" />
+<meta name="keywords" content="擦火" />
+<meta name="description" content=" 擦火 ,两学一做烹饪交流论坛" />
+<meta name="generator" content="Discuz! X3.2" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2013 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://fishlovemeat.site/" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_common.css?tE9" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_forum_viewthread.css?tE9" /><link rel="stylesheet" id="css_extstyle" type="text/css" href="./template/default/style/t2/style.css" /><script type="text/javascript">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'tE9', charset = 'utf-8', discuz_uid = '191058', cookiepre = 'xyQi_2132_', cookiedomain = '', cookiepath = '/', showusercard = '0', attackevasive = '0', disallowfloat = 'newthread|reply', creditnotice = '', defaultstyle = './template/default/style/t2', REPORTURL = 'aHR0cDovL2Zpc2hsb3ZlbWVhdC5zaXRlL2ZvcnVtLnBocD9tb2Q9dmlld3RocmVhZCZ0aWQ9MjkwMDc=', SITEURL = 'http://fishlovemeat.site/', JSPATH = 'data/cache/', CSSPATH = 'data/cache/style_', DYNAMICURL = '';</script>
+<script src="data/cache/common.js?tE9" type="text/javascript"></script>
+<meta name="application-name" content="两学一做烹饪交流论坛" />
+<meta name="msapplication-tooltip" content="两学一做烹饪交流论坛" />
+<meta name="msapplication-task" content="name=门户;action-uri=http://fishlovemeat.site/portal.php;icon-uri=http://fishlovemeat.site/static/image/common/portal.ico" /><meta name="msapplication-task" content="name=首页;action-uri=http://fishlovemeat.site/forum.php;icon-uri=http://fishlovemeat.site/static/image/common/bbs.ico" />
+<meta name="msapplication-task" content="name=家园;action-uri=http://fishlovemeat.site/home.php;icon-uri=http://fishlovemeat.site/static/image/common/home.ico" /><script src="data/cache/forum.js?tE9" type="text/javascript"></script>
+</head>
+
+<body id="nv_forum" class="pg_viewthread" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div id="toptb" class="cl">
+<div class="wp">
+<div class="z"></div>
+<div class="y">
+<a id="switchblind" href="javascript:;" onclick="toggleBlind(this)" title="开启辅助访问" class="switchblind">开启辅助访问</a>
+<a href="javascript:;" id="switchwidth" onclick="widthauto(this)" title="切换到宽版" class="switchwidth">切换到宽版</a>
+<a id="sslct" href="javascript:;" onmouseover="delayShow(this, function() {showMenu({'ctrlid':'sslct','pos':'34!'})});">切换风格</a></div>
+</div>
+</div>
+
+<ul id="myprompt_menu" class="p_pop" style="display: none;">
+<li><a href="home.php?mod=space&amp;do=pm" id="pm_ntc" style="background-repeat: no-repeat; background-position: 0 50%;"><em class="prompt_news_0"></em>消息</a></li>
+<li><a href="home.php?mod=follow&amp;do=follower"><em class="prompt_follower_0"></em>新听众</a></li>
+<li class="ignore_noticeli"><a href="javascript:;" onclick="setcookie('ignore_notice', 1);hideMenu('myprompt_menu')" title="暂不提醒"><em class="ignore_notice"></em></a></li>
+</ul>
+<div id="sslct_menu" class="cl p_pop" style="display: none;">
+<span class="sslct_btn" onclick="extstyle('./template/default/style/t2')" title="青"><i style='background:#429296'></i></span>
+<span class="sslct_btn" onclick="extstyle('./template/default/style/t4')" title="紫"><i style='background:#9934B7'></i></span>
+<span class="sslct_btn" onclick="extstyle('./template/default/style/t1')" title="红"><i style='background:#BA350F'></i></span>
+<span class="sslct_btn" onclick="extstyle('./template/default/style/t3')" title="橙"><i style='background:#FE9500'></i></span>
+<span class="sslct_btn" onclick="extstyle('./template/default/style/t5')" title="蓝"><i style='background:#0053B9'></i></span>
+</div>
+<ul id="myitem_menu" class="p_pop" style="display: none;">
+<li><a href="forum.php?mod=guide&amp;view=my">帖子</a></li>
+<li><a href="home.php?mod=space&amp;do=favorite&amp;view=me">收藏</a></li>
+<li><a href="home.php?mod=space&amp;do=friend">好友</a></li>
+</ul>
+<div id="qmenu_menu" class="p_pop " style="display: none;">
+<ul class="cl nav"><li><a href="home.php?mod=space&do=friend" style="background-image:url(http://fishlovemeat.site/static/image/feed/friend_b.png) !important">好友</a></li>
+<li><a href="forum.php?mod=guide&view=my" style="background-image:url(http://fishlovemeat.site/static/image/feed/thread_b.png) !important">帖子</a></li>
+<li><a href="home.php?mod=space&do=favorite&view=me" style="background-image:url(http://fishlovemeat.site/static/image/feed/favorite_b.png) !important">收藏</a></li>
+<li><a href="home.php?mod=medal" target="_blank" style="background-image:url(http://fishlovemeat.site/static/image/feed/medal_b.png) !important">装备</a></li>
+<li><a href="home.php?mod=task" style="background-image:url(http://fishlovemeat.site/static/image/feed/task_b.png) !important">任务</a></li>
+<li><a href="home.php" style="background-image:url(http://fishlovemeat.site/static/image/feed/feed_b.png) !important">动态</a></li>
+<li><a href="portal.php" style="background-image:url(http://fishlovemeat.site/static/image/feed/portal_b.png) !important">门户</a></li>
+<li><a href="forum.php?mod=guide" style="background-image:url(http://fishlovemeat.site/static/image/feed/guide_b.png) !important">导读</a></li>
+<li><a href="misc.php?mod=ranklist" style="background-image:url(http://fishlovemeat.site/static/image/feed/ranklist_b.png) !important">排行榜</a></li>
+</ul>
+<div id="fjump_menu" class="btda"></div></div><div id="hd">
+<div class="wp">
+<div class="hdc cl"><h2><a href="./" title="两学一做烹饪交流论坛"><img src="static/image/common/logo.png" alt="两学一做烹饪交流论坛" border="0" /></a></h2><div id="um">
+<div class="avt y"><a href="home.php?mod=space&amp;uid=191058"><img src="http://139.162.49.50/uc_center/avatar.php?uid=191058&size=small" /></a></div>
+<p>
+<strong class="vwmy"><a href="home.php?mod=space&amp;uid=191058" target="_blank" title="访问我的空间">willyou</a></strong>
+<span id="loginstatus">
+<a id="loginstatusid" href="member.php?mod=switchstatus" title="切换在线状态" onclick="ajaxget(this.href, 'loginstatus');return false;" class="xi2"></a>
+</span>
+<span class="pipe">|</span><a href="javascript:;" id="myitem" class="showmenu" onmouseover="showMenu({'ctrlid':'myitem'});">我的</a>
+<span class="pipe">|</span><a href="home.php?mod=spacecp">设置</a>
+<span class="pipe">|</span><a href="home.php?mod=space&amp;do=pm" id="pm_ntc">消息</a>
+<span class="pipe">|</span><a href="home.php?mod=space&amp;do=notice" id="myprompt" class="a showmenu" onmouseover="showMenu({'ctrlid':'myprompt'});">提醒</a><span id="myprompt_check"></span>
+<span class="pipe">|</span><a href="portal.php?mod=portalcp">门户管理</a>
+<span class="pipe">|</span><a href="member.php?mod=logging&amp;action=logout&amp;formhash=5e3fa289">退出</a>
+</p>
+<p>
+<a href="home.php?mod=spacecp&amp;ac=credit&amp;showcredit=1" id="extcreditmenu" onmouseover="delayShow(this, showCreditmenu);" class="showmenu">积分: 60</a>
+<span class="pipe">|</span><a href="home.php?mod=spacecp&amp;ac=usergroup" id="g_upmine" class="showmenu" onmouseover="delayShow(this, showUpgradeinfo)">用户组: 红烧鱼</a>
+</p>
+</div>
+</div>
+
+<div id="nv">
+<a href="javascript:;" id="qmenu" onmouseover="delayShow(this, function () {showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});showForummenu(13);})">快捷导航</a>
+<ul><li class="a" id="mn_forum" ><a href="forum.php" hidefocus="true" title="BBS"  >首页<span>BBS</span></a></li><li id="mn_portal" ><a href="portal.php" hidefocus="true" title="Portal"  >门户<span>Portal</span></a></li><li id="mn_forum_10" ><a href="forum.php?mod=guide" hidefocus="true" title="Guide"  >导读<span>Guide</span></a></li><li id="mn_N12a7" ><a href="misc.php?mod=ranklist" hidefocus="true" title="Ranklist"  >排行榜<span>Ranklist</span></a></li></ul>
+</div>
+<div class="p_pop h_pop" id="mn_userapp_menu" style="display: none"></div><div id="mu" class="cl">
+</div><div id="scbar" class="cl">
+<form id="scbar_form" method="post" autocomplete="off" onsubmit="searchFocus($('scbar_txt'))" action="search.php?searchsubmit=yes" target="_blank">
+<input type="hidden" name="mod" id="scbar_mod" value="search" />
+<input type="hidden" name="formhash" value="5e3fa289" />
+<input type="hidden" name="srchtype" value="title" />
+<input type="hidden" name="srhfid" value="13" />
+<input type="hidden" name="srhlocality" value="forum::viewthread" />
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="scbar_icon_td"></td>
+<td class="scbar_txt_td"><input type="text" name="srchtxt" id="scbar_txt" value="请输入搜索内容" autocomplete="off" x-webkit-speech speech /></td>
+<td class="scbar_type_td"><a href="javascript:;" id="scbar_type" class="xg1" onclick="showMenu(this.id)" hidefocus="true">搜索</a></td>
+<td class="scbar_btn_td"><button type="submit" name="searchsubmit" id="scbar_btn" sc="1" class="pn pnc" value="true"><strong class="xi2">搜索</strong></button></td>
+<td class="scbar_hot_td">
+<div id="scbar_hot">
+<strong class="xw1">热搜: </strong>
+
+<a href="search.php?mod=forum&amp;srchtxt=%E7%89%88%E8%A7%84&amp;formhash=5e3fa289&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">版规</a>
+
+</div>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<ul id="scbar_type_menu" class="p_pop" style="display: none;"><li><a href="javascript:;" rel="curforum" fid="13" >本版</a></li><li><a href="javascript:;" rel="forum" class="curtype">帖子</a></li><li><a href="javascript:;" rel="user">用户</a></li></ul>
+<script type="text/javascript">
+initSearchmenu('scbar', '');
+</script>
+</div>
+</div>
+
+
+<div id="wp" class="wp">
+<script type="text/javascript">var fid = parseInt('13'), tid = parseInt('29007');</script>
+
+<script src="data/cache/forum_viewthread.js?tE9" type="text/javascript"></script>
+<script type="text/javascript">zoomstatus = parseInt(0);var imagemaxwidth = '600';var aimgcount = new Array();</script>
+
+<style id="diy_style" type="text/css"></style>
+<!--[diy=diynavtop]--><div id="diynavtop" class="area"></div><!--[/diy]-->
+<div id="pt" class="bm cl">
+<div class="z">
+<a href="./" class="nvhm" title="首页">两学一做烹饪交流论坛</a><em>&raquo;</em><a href="forum.php">首页</a> <em>&rsaquo;</em> <a href="forum.php?gid=3">创作区</a> <em>&rsaquo;</em> <a href="forum.php?mod=forumdisplay&amp;fid=13">红烧青鱼</a> <em>&rsaquo;</em> <a href="forum.php?mod=viewthread&amp;tid=29007">擦火</a>
+</div>
+</div>
+
+<style id="diy_style" type="text/css"></style>
+<div class="wp">
+<!--[diy=diy1]--><div id="diy1" class="area"></div><!--[/diy]-->
+</div>
+
+<div id="ct" class="wp cl">
+<div id="pgt" class="pgs mbm cl ">
+<div class="pgt"></div>
+<span class="y pgb"><a href="forum.php?mod=forumdisplay&amp;fid=13">返回列表</a></span>
+<a id="newspecial" onmouseover="$('newspecial').id = 'newspecialtmp';this.id = 'newspecial';showMenu({'ctrlid':this.id})" onclick="location.href='forum.php?mod=post&action=newthread&fid=13';return false;" href="javascript:;" title="发新帖"><img src="static/image/common/pn_post.png" alt="发新帖" /></a><a id="post_reply" onclick="showWindow('reply', 'forum.php?mod=post&action=reply&fid=13&tid=29007')" href="javascript:;" title="回复"><img src="static/image/common/pn_reply.png" alt="回复" /></a>
+</div>
+
+<ul class="p_pop" id="newspecial_menu" style="display: none">
+<li><a href="forum.php?mod=post&amp;action=newthread&amp;fid=13">发表帖子</a></li><li class="poll"><a href="forum.php?mod=post&amp;action=newthread&amp;fid=13&amp;special=1">发起投票</a></li></ul>
+
+
+<div id="postlist" class="pl bm">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="plc ptm pbn vwthd">
+<div class="y">
+<a href="forum.php?mod=viewthread&amp;action=printable&amp;tid=29007" title="打印" target="_blank"><img src="static/image/common/print.png" alt="打印" class="vm" /></a>
+<a href="forum.php?mod=redirect&amp;goto=nextoldset&amp;tid=29007" title="上一主题"><img src="static/image/common/thread-prev.png" alt="上一主题" class="vm" /></a>
+<a href="forum.php?mod=redirect&amp;goto=nextnewset&amp;tid=29007" title="下一主题"><img src="static/image/common/thread-next.png" alt="下一主题" class="vm" /></a>
+</div>
+<span class="xg1 side_btn">
+<a onclick="setcookie('close_leftinfo', 2);location.reload();" title="开启左侧" class="btn_s_open" href="javascript:;"><img src="static/image/common/control_r.png" alt="开启左侧" class="vm" /></a>
+</span>
+<h1 class="ts">
+<a href="forum.php?mod=forumdisplay&amp;fid=13&amp;filter=typeid&amp;typeid=71">[现代]</a>
+<a href="forum.php?mod=forumdisplay&amp;fid=13&amp;filter=sortid&amp;sortid=8">[文章]</a>
+<span id="thread_subject">擦火</span>
+</h1>
+<span class="xg1">
+<a href="forum.php?mod=viewthread&amp;tid=29007" onclick="return copyThreadUrl(this, '两学一做烹饪交流论坛')" >[复制链接]</a>
+</span>
+</td>
+</tr>
+</table>
+
+
+<table cellspacing="0" cellpadding="0" class="ad">
+<tr>
+<td class="pls">
+</td>
+</tr>
+</table><div id="post_1920498" ><table id="pid1920498" class="plhin" summary="pid1920498" cellspacing="0" cellpadding="0">
+<tr>
+<td class="plc" style="width:100%">
+<div class="pi" style="height:48px">
+<div id="fj" class="y">
+<label class="z">电梯直达</label>
+<input type="text" class="px p_fre z" size="2" onkeyup="$('fj_btn').href='forum.php?mod=redirect&ptid=29007&authorid=0&postno='+this.value" onkeydown="if(event.keyCode==13) {window.location=$('fj_btn').href;return false;}" title="跳转到指定楼层" />
+<a href="javascript:;" id="fj_btn" class="z" title="跳转到指定楼层"><img src="static/image/common/fj_btn.png" alt="跳转到指定楼层" class="vm" /></a>
+</div>
+<strong>
+<a href="forum.php?mod=viewthread&tid=29007"   id="postnum1920498" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+楼主</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<a href="home.php?mod=space&amp;uid=199331" target="_blank" class="xi2 z" style="padding-right:10px;">藏于吾山</a>
+<img class="authicn vm" id="authicon1920498" src="static/image/common/online_member.gif" />
+<em id="authorposton1920498">发表于 2018-2-27 16:07</em>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=29007&amp;page=1&amp;authorid=199331" rel="nofollow">只看该作者</a>
+<span class="none"><img src="static/image/common/arw_r.gif" class="vm" alt="回帖奖励" /></span>
+<span class="pipe show">|</span><a href="forum.php?mod=viewthread&amp;tid=29007&amp;extra=&amp;ordertype=1"  class="show">倒序浏览</a>
+<span class="pipe show">|</span><a href="javascript:;" onclick="readmode($('thread_subject').innerHTML, 1920498);" class="show">阅读模式</a>
+</div>
+</div>
+</div><div class="pct"><style type="text/css">.pcb{margin-right:0}</style><div class="pcb">
+ 
+<div class="typeoption">
+<table summary="分类信息" cellpadding="0" cellspacing="0" class="cgtl mbm">
+<caption>文章</caption>
+<tbody><tr>
+<th>内容简介:</th>
+<td>麻辣烫冷清小哥深夜被尾随，回头一看竟然是... 变态玻璃心忠犬攻×冷淡傲娇腹黑受 短肉 </td>
+</tr>
+<tr>
+<th>连载进度:</th>
+<td>完结 </td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_1920498">
+<i class="pstatus"> 本帖最后由 藏于吾山 于 2018-2-27 23:07 编辑 </i><br />
+<br />
+<div align="left"><br />
+<div align="left">脑洞文</div><div align="left"><strong><i><font style="font-size:9.0pt">CP: </font></i><i><font face="宋体"><font style="font-size:9.0pt">荀或</font></font></i><i><font style="font-size:9.0pt">×</font></i><i><font face="宋体"><font style="font-size:9.0pt">赵秦</font></font></i></strong></div><div align="left"><font face="宋体">他就躺在那里，散漫冷淡，不急不恼，永远一副任君采撷的模样。而你只须欺身上前，狠狠擦上，他便是你燃起的熊熊烈火。</font></div><br />
+<div align="left">❤<font face="宋体">第一章</font>“<font face="宋体">我摸摸就走</font>”</div><br />
+<div align="left">这两天新生报到，小吃街开始财源滚滚。赵秦的摊位在第三道街里面位置，麻辣烫方形锅台前的人流仍是一波又一波。临近的大学属财经类院校，跟小吃街隔一条大道相互吸引，食客也多为妹子，偶尔有男生结伴，大多是以男女搭配形式光临。生意一般可以做到十点半，赵秦添了一轮菜，百无聊赖地瞅着对面新开的老妈串串，店面装修碾压一条街，正在开业大酬宾，哈啤免费。果然免费都哈皮，门口也坐满了撸串的学生，喧闹声振了几米，衬得他的小摊有种怡然自得的闲适。</div><br />
+<div align="left">你站在桥上看风景， 看风景人在楼上看你。 荀或跟着新晋的一帮室友来撸串，据说这家是老牌连锁，环境不错物美价廉。他被顺便豪气了一把，灌了半肚子酒。室友看他一个劲儿盯着马路犯晕，以为是刚才用力过猛，怕一个收拾不住要扛个人回去，就给他拨了一堆菜，没再继续诉衷情。荀或没喝醉，他酒量还不错，而且应该还能再扛个胖子回宿舍。他抿了口茶轻轻漱了下口，继续盯着街对面。那是个卖麻辣烫的小摊，半回形的搭台稀散地围着人，一个年轻男人站在中间时不时添弄着菜品。</div><br />
+<div align="left">腾腾热气挡了些他的眉眼，但荀或还是认出来了。吞下的酒随着那人面前的氤氲从他喉间发酵，蠢蠢欲出。那人放下筷子，侧头看了过来，荀或喉头一紧，下`身势起。他看过来了，他眼里一层淡漠没有笑意，他脸颊泛红气息微喘，他不挣扎也懒的迎合，他皮肤有些冷却并不寒颤，在洒有微光的仓库里一副任君采撷的模样。荀或心头燥热，眼角浮上一阵汤锅熏透的红。他要去找他。</div><br />
+<div align="left">十点四十，夜宵散到尾声，街灯都暗了几分，赵秦准备收拾今晚的残局。</div><br />
+<div align="left">有人拉开他面前的凳子坐下，“干碟，谢谢。”</div><br />
+<div align="left">“吃什么，我重新煮。”</div><br />
+<div align="left">“不用，里面的就好。”</div><br />
+<div align="left">荀或掰开筷子迅速捻起锅里的丸子，在干碟里滚了两圈吃下。煮透的鱼丸软烂的可口，他想着便操起筷子继续解决。</div><br />
+<div align="left">他吃的差不多的时候，赵秦已经把其他杂物整理好摆在一个推车上，荀或起身付账，站在他面前盯着他。赵秦只抽了钱，一眼也没看他，回身继续收拾。荀或干站在马路沿上，想抽根烟，又把烟盒按了回去。</div><br />
+<div align="left">赵秦整理好东西推着车转进身后的巷道，左右两排房子紧紧夹着这小道，月色几乎透不进来，只有楼上几家错落的灯和街口透过的光照着昏暗的路。</div><br />
+<div align="left">荀或隔着几步跟在后面，过了三排，前面的人转弯停下了。那人开了门，把车推进又转身锁上，好像没看到荀或一般进了楼，在右手边第一间门上拧了拧。荀或迈步搭上他的手，握住，忍不住凑近他的脸，索吻一般靠上去，微微张了唇。赵秦没推开也没退后，甚至手都没挪动一分。荀或心有触动，按上他的后颈，唇齿压上。</div><br />
+<div align="left">吻了片刻，荀或的手已不自觉辗转滑下衣内，他微喘着不自觉地在指间添了些力道，想要擦出些情动的燥热。赵秦抽出手退了一步，“你不想被一群人听墙角吧，这里隔音特别惊喜。”他低笑了一声，掏出钥匙打开门。门堪堪半开，荀或想要跟进，赵秦回头看他，“屋里有人呢，你还想办事儿？”没有灯打开，赵秦的声音好像带着风，扑上荀或时就停住不走了。荀或轻轻带上门，扣住赵秦的手，吻了上去，“有监控我都不怕干你，还怕别人听墙角？”</div><br />
+<div align="left">客厅里不算黑不见五指，有莫名的光透过玻璃窗，隐约能分辨些事物。荀或揽着赵秦，把他按在墙上，他抚上他头顶的发，吻他的眉心，吻他挺直的鼻梁，吻他微翘的唇尖。他扣着他的手压在墙上，另一只沿脖颈滑下，按住他的肩，唇已经印上，长舌驱入。他在这里，在那里，他舔弄他的上颚，狠狠搅着舌间津液，他碾过这人每一个齿缝，吮`吸所有的温软湿润。</div><br />
+<div align="left">他摸上赵秦的背，把他压向自己。唇被舔弄的湿软，胸口抑制不住地喘，两双腿错落交叉，荀或按着他的腰，感受到胯下难得的温热，隐约的勾人的轻触。赵秦几乎算不上热情，却仍在无意的探触间，下`体相蹭轻颤时唤出荀或压抑不住的热切。荀或推上他的衬衫，干燥温热的手掌蹭上胸前，辗转揪弄，唇齿间与手两路并进。赵秦微凉的身体半`裸，任人在上肆意，他有一搭没一搭地回应着扣住自己这人的热烈，绕是再无意，也耐不住生理反应，在胯下不停的轻蹭顶撞中发泄之欲硬起，弯弯曲曲地染上眉梢。</div><br />
+<div align="left">他忍不住“嗯”了一声。荀或如得到攻城口令般加重了动作，宽大手掌换了边继续耕耘，他缱绻留连着退出口舌，在赵秦唇上又重重碾压舔弄，贴上吮`吸了好几口才用舌尖沿喉间舔下，在锁骨处深吻厮磨，压开几处粉花。荀或吮上他胸口暗红，匆匆均沾两处后辗转引下，抚在腰上的手顺着肌肉的轮廓侵占臀上，那里结实挺翘，圆润黏人。他低喘着忍不住抬头看向赵秦，那人微昂着头，唇齿微张，无声地加重了呼吸。他忍不住再次压他到墙上，重新钳住他的唇，汲取他恼人的气息。</div><br />
+<div align="left">赵秦微微蹭动，荀或的大手毫不迟疑地插入赵秦的裤子，扯开内裤，穿过硬滑的毛发，握上那根性｀器。这里是唯三赵秦温度宜人的地方，他很想让他情｀欲燃动，整个人温热起来，不再处处透着凉意。荀或扣着赵秦的那手不断抚着他的手指，他跪在地上，十指相扣的手抵住赵秦的腰。另一只手不停撸动，他张口吞入那腥甜之物。赵秦腰间一软，单手撑住后墙，轻喘出声。</div><br />
+<div align="left">荀或在嘴间吞吐的那物一点点涨大，他的手不由抓上赵秦的臀，沿着臀缝，不自觉地滑入。唇间一阵舔弄，荀或用舌尖按压柱体，间带着重重的吮`吸。他轻舔铃口，吸入渗出的液体，在手指摸索按压时又深深刺入喉咙，“啊”的轻叹只散在齿边，荀或感受到手指旁的穴微微收缩，他借势按压，口间愈发卖力，不消片刻，一股脓液喷出，射了荀或满嘴。他仍含着那半软之物，闭着眼靠在赵秦腿间，白浊溢出嘴角。</div><br />
+<div align="left">赵秦挣开僵硬的手，扶墙掏出纸塞进荀或手里，“吐。”</div><br />
+<div align="left">荀或口间没有动作，伸手抱住他。赵秦推开，扯出纸摊在荀或面前，“我说吐出来。”</div><br />
+<div align="left">荀或托住他的手，低头吐出一口又一口。赵秦敛住向墙角一扔，缓了绵长的一口气，打开了灯。</div><br />
+<div align="left">大概是备用的照明灯，暗黄地恰配这一方场景。荀或弯腰靠在墙上，短寸有些凌乱，双眼微闭，嘴角仍是未净的白痕，棱角分明的脸上染着情动，衬衣蹭的发皱，运动裤微微下坠，赵秦能想象藏在腿间的巨物剑拔弩张不肯退让的模样。他稳了稳步子，拿起茶几上的凉水壶倒了杯水喝，压下心头未散干净的念头，“还不走？想做干净？”他走回荀或面前，看他挣开眼看他，看他舔干净嘴角的痕迹，看他抱上来吻住自己的脸。赵秦扒住裤子的一侧，随意扯了一把，荀或惊慌地按住他的手，“别，不是，这样就好。”他死死按住赵秦的手和扯歪的裤子，头抵在这人肩上。</div><br />
+<div align="left">赵秦有点不耐烦这样，轻轻推了一把退开，“不做就走。”</div><br />
+<div align="left">“我再来找你，”荀或眨也不眨地看着他，低低地唤着，几乎无声，“老婆。”</div><br />
+<div align="left">门开了个缝，又重新关上，赵秦“啪”地一声把灯按灭。</div><br />
+<div align="left">荀或极慢地走出巷子，又回头看了几眼。“老婆。”他下`身有些发疼，心里平静又慌乱。他的赵秦。</div><br />
+</div></td></tr></table>
+
+<div class="ptg mbm mtn">
+<a title="忠犬攻" href="misc.php?mod=tag&amp;id=9" target="_blank">忠犬攻</a>, <a title="玻璃心" href="misc.php?mod=tag&amp;id=3216" target="_blank">玻璃心</a>, <a title="傲娇受" href="misc.php?mod=tag&amp;id=3217" target="_blank">傲娇受</a>, <a title="重逢" href="misc.php?mod=tag&amp;id=3219" target="_blank">重逢</a></div>
+
+</div>
+<div id="comment_1920498" class="cm">
+</div>
+
+<div id="post_rate_div_1920498"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+<div id="p_btn" class="mtw mbm hm cl">
+
+<a href="home.php?mod=spacecp&amp;ac=favorite&amp;type=thread&amp;id=29007&amp;formhash=5e3fa289" id="k_favorite" onclick="showWindow(this.id, this.href, 'get', 0);" onmouseover="this.title = $('favoritenumber').innerHTML + ' 人收藏'" title="收藏本帖"><i><img src="static/image/common/fav.gif" alt="收藏" />收藏<span id="favoritenumber">16</span></i></a>
+<a href="javascript:;" id="ak_rate" onclick="showWindow('rate', 'forum.php?mod=misc&action=rate&tid=29007&pid=1920498', 'get', -1);return false;" title="评分表立场"><i><img src="static/image/common/agree.gif" alt="评分" />评分</i></a>
+<a id="recommend_add" href="forum.php?mod=misc&amp;action=recommend&amp;do=add&amp;tid=29007&amp;hash=5e3fa289" onclick="ajaxmenu(this, 3000, 1, 0, '43', 'recommendupdate(1)');return false;" onmouseover="this.title = $('recommendv_add').innerHTML + ' 人鲜花'" title="顶一下"><i><img src="static/image/common/rec_add.gif" alt="鲜花" />鲜花<span id="recommendv_add">1</span></i></a>
+</div>
+</td>
+</tr>
+<tr id="_postposition1920498"></tr>
+<tr>
+<td class="plc" style="overflow:visible;--> width:100%">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="cmmnt" href="forum.php?mod=misc&amp;action=comment&amp;tid=29007&amp;pid=1920498&amp;extra=&amp;page=1" onclick="showWindow('comment', this.href, 'get', 0)">点评</a><a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=13&amp;tid=29007&amp;reppost=1920498&amp;extra=&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" onclick="showWindow('miscreport1920498', 'misc.php?mod=report&rtype=post&rid=1920498&tid=29007&fid=13', 'get', -1);return false;">举报</a>
+</p>
+
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+</tr>
+</table>
+</div><div id="post_1920499" ><table id="pid1920499" class="plhin" summary="pid1920499" cellspacing="0" cellpadding="0">
+<tr>
+<td class="plc" style="width:100%">
+<div class="pi" style="height:48px">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=29007&pid=1920499"   id="postnum1920499" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+沙发</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<a href="home.php?mod=space&amp;uid=199331" target="_blank" class="xi2 z" style="padding-right:10px;">藏于吾山</a>
+<img class="authicn vm" id="authicon1920499" src="static/image/common/ico_lz.png" />
+&nbsp;楼主<span class="pipe">|</span>
+<em id="authorposton1920499">发表于 2018-2-27 16:16</em>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=29007&amp;page=1&amp;authorid=199331" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_1920499">
+<i class="pstatus"> 本帖最后由 藏于吾山 于 2018-2-27 16:18 编辑 </i><br />
+<br />
+<div align="left">❤<font face="宋体">第二章</font>“<font face="宋体">我只是想想而已</font>”</div><br />
+<div align="left">&quot;今天卖完了。&quot;</div><br />
+<div align="left">荀或只好一边起身帮忙收凳子一边偷偷看赵秦。最近他天天夜宵麻辣烫，嘴烂屌疼，上火的厉害。但是今天下午打了场比赛，晚饭没顾上吃就去了活动中心办事，这会儿是真饿了。他有点不太明白赵秦的意思，这几日晚上都跟着赵秦回家，也就是到门口看他关上门就回去了。他想赵秦肯定不是想让他再多做点啥的意思，大概也没想理他来不来这儿。他沮丧了几秒钟就又想囫囵了，谁犯罪谁负责。</div><br />
+<div align="left">&quot;小秦哥，&quot;一个姑娘拎了个盒子走过来，&quot;我今天试着做了新品，你帮我尝尝味道好不好。她直接把盒子放进推车，顺便整理了凌乱的摆放。</div><br />
+<div align="left">&quot;这个大哥是你朋友吗？&quot;她回头好奇地看了眼荀或。</div><br />
+<div align="left">&quot;一个好心人。&quot;赵秦嗤笑了一声。</div><br />
+<div align="left">荀或脑子里轰的一声，狠攥住手心才勉强稳住没有落荒而逃。</div><br />
+<div align="left">&quot;呀，你流了一手醋啊。&quot;姑娘迅速扯了卷纸递过来。荀或低声道谢，没有再抬头。</div><br />
+<div align="left">赵秦道了谢又随意说了两句闲话，女孩便转身回了自家的店，赵秦收拾妥当推车回家。荀或还是跟在身后，只是这次隔的有点远。</div><br />
+<div align="left">九月的气息合该是温热，夜晚若是有风也该带点爽气，荀或向来是热性体质，现下却随着心头混着羞臊的寒意将将冒出些冷汗。他知道赵秦刚刚那句不是玩笑话，正是因为这，他们才有曾经和现在的联系，也是因为这，荀或始终没办法再有别的联系。</div><br />
+<div align="left">赵秦是在对他说他有多虚伪多恶心多十恶不赦。是啊，荀或想，我就是这样一个人，所以我现在还是像变态一样一眼就看到他，尾随他，侵犯他。他也并没有反抗，不是吗？他突然涌起一股泪意，鼻腔隐约发呛，他有些厌恶这样的自己，又有些隐秘的不愿深想的情绪。至少我还是在这儿，我要在这儿。</div><br />
+<div align="left">赵秦已经关上了门，客厅开了灯，没有马上关掉。荀或在门口站了片刻，手心被短齐的指甲抠的生疼，他拧开了门。</div><div align="left">客厅很小，一个方形玻璃桌摆在门口，几把椅子，向前走五六步就是卧室，卫生间缩在角落里，开着灯。门口那个关着的门，大概是厨房位置。</div><br />
+<div align="left">所以，这是一个一居室。那，哪里来的其他人？</div><br />
+<div align="left">卧室的门开着，荀或走进去。他坐在赵秦的床上，揉乱他的被子，看不出屋子里别人的痕迹。他躺到床上，把空调被盖在身上，脸埋进枕头，深嗅着赵秦的味道。隔壁传来淋浴声，&quot;唰——&quot;擦在耳边，荀或深吸一口，手慢慢插进裤子，握住。</div><br />
+<div align="left">他伏在仓库的空地上，双手被扣，用链子栓着地桩。他没有看来人，有人喂他吃饭他便吃，有人渡他水他便吞下，那人一口一口地填满他的胃，又一寸一寸亲上他的脸。</div><br />
+<div align="left">“可以亲你吗？”</div><br />
+<div align="left">“可以摸吗？”</div><br />
+<div align="left">“可以插进来吗？”</div><br />
+<div align="left">不是已经在亲了吗？不是已经摸上去了吗？不是已经抵在哪里了还在问什么？</div><br />
+<div align="left">说不有用吗？有用就不会跑，就不会被捉回来关在这里，就不用像这样，一句话也不想说。</div><br />
+<div align="left">赵秦单手撑墙，任热水灌进耳廓，充塞口鼻，他听到荀或进门、上床，像很久以前一样随意进出他的房间，他涌出一丝莫名的恐惧，又回过神来。并非很久以前，一年多而已，也并不是在那里了，他跑出来了，自己一个人的生活了。</div><br />
+<div align="left">今天说的那句话没错，一个好心人，哈，没有荀或，他的确跑不出来。</div><br />
+<div align="left">皮肤被浇的红烫，热水塞满了狭小的空间，微妙的晕眩感让赵秦有些迷醉，他闭上眼，回忆起旧仓库里自己被按在铁栓上起伏时，那人同样滚烫的器物，细密的吻，沉迷的情话，贯穿进自己冰凉的身体，和，心里。他凑在自己耳边，轻含着耳垂，轻喘着用气声说,“别讨厌我，别恨我，我送你走。”那时，自己狠狠抓着铁栓，咬着牙一声未吭。</div><br />
+<div align="left">“答应我好吗？”</div><br />
+<div align="left">“赵秦，跟我说句话好吗？”</div><br />
+<div align="left">那人身下愈发缠绵，一次比一次深的撞击，缓慢又温柔。他不愿开口，好像不开口就不是自己。</div><br />
+<div align="left">那人得不到回应开始加速，又伸手握住自己的前端同步发力，他的脸伏在自己肩上，喘息喷在肩背…“啊”，他戳中了某一处，忍不住那酥麻与战栗。那人极其高兴，反复琢磨那一处，又不断地胡言乱语，“我喜欢你，我喜欢你，赵秦…”</div><br />
+<div align="left">“老婆…”</div><br />
+<div align="left">“唔…”赵秦缓缓睁开眼，摊开手掌，愣了下神，洗净一手痕迹。</div><br />
+<div align="left">他随便冲了冲头，套了件T-shirt和短裤。他站在卧室半开的门口，看着床上的荀或<font style="font-size:16px">长裤半褪，一只手紧握着粗大的X器上下耸动。“赵秦…”他闭着眼，眉头微皱，表情茫然。</font></div><div align="left"><font style="font-size:16px"><br />
+</font></div><div align="left">赵秦觉得十分荒唐，几分嘲意刚要涌出，忽然心下冰凉。如影随形的冷从不陌生，他此时却生出难言的难过。他关好门，跨过荀或的身体，蜷缩着侧身躺下。</div><br />
+<div align="left">身后有悉索的脱衣声，发烫的身体抱了上来，后颈一声声潮湿的亲吻：</div><br />
+<div align="left">“对不起”</div><br />
+<div align="left">“对不起，赵秦”</div><br />
+<div align="left">“赵秦，我喜欢你”</div><br />
+<div align="left">“赵秦我不走了好吗？”</div><br />
+<div align="left">“老婆…原谅我…”</div><br />
+<div align="left">“别讨厌我…”</div><br />
+<div align="left">身后的人付在肩头，有温热的液体滑下，一条河，两条河…</div><br />
+<div align="left">赵秦听到他说，“我爱你，求你，看看我。”</div><br />
+</td></tr></table>
+
+
+</div>
+<div id="comment_1920499" class="cm">
+</div>
+
+<div id="post_rate_div_1920499"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr id="_postposition1920499"></tr>
+<tr>
+<td class="plc" style="overflow:visible;--> width:100%">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="cmmnt" href="forum.php?mod=misc&amp;action=comment&amp;tid=29007&amp;pid=1920499&amp;extra=&amp;page=1" onclick="showWindow('comment', this.href, 'get', 0)">点评</a><a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=13&amp;tid=29007&amp;repquote=1920499&amp;extra=&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" onclick="showWindow('rate', 'forum.php?mod=misc&action=rate&tid=29007&pid=1920499', 'get', -1);return false;">评分</a>
+<a href="javascript:;" onclick="showWindow('miscreport1920499', 'misc.php?mod=report&rtype=post&rid=1920499&tid=29007&fid=13', 'get', -1);return false;">举报</a>
+</p>
+
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+</tr>
+</table>
+</div><div id="post_1920500" ><table id="pid1920500" class="plhin" summary="pid1920500" cellspacing="0" cellpadding="0">
+<tr>
+<td class="plc" style="width:100%">
+<div class="pi" style="height:48px">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=29007&pid=1920500"   id="postnum1920500" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+板凳</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<a href="home.php?mod=space&amp;uid=199331" target="_blank" class="xi2 z" style="padding-right:10px;">藏于吾山</a>
+<img class="authicn vm" id="authicon1920500" src="static/image/common/ico_lz.png" />
+&nbsp;楼主<span class="pipe">|</span>
+<em id="authorposton1920500">发表于 2018-2-27 16:18</em>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=29007&amp;page=1&amp;authorid=199331" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_1920500">
+<i class="pstatus"> 本帖最后由 藏于吾山 于 2018-2-27 16:19 编辑 </i><br />
+<br />
+<div align="left">❤<font face="宋体">第三章</font> “<font face="宋体">老婆，我进来了</font>”</div><br />
+<br />
+<div align="left">赵秦久久未动，直到感觉半边胳膊有点麻，才展开身子平躺下来。荀或被他挤开，对着他的侧脸发神，愣了一会儿又伸手去够赵秦的手。</div><br />
+<br />
+<div align="left">赵秦本不想搭理他，可今天情绪特别不对，从荀或出现开始的烦躁和一直自我催眠式的冷处理就着不堪的过去混成一种奇怪的情绪，让他第一次想要发泄。</div><br />
+<br />
+<div align="left">他转过头对上荀或的脸，这张脸并不那么可憎可恶，每每望过来时，总带着一种很深的情绪。赵秦不愿想自己为何三番两次迁就荀或，他挣开手，半撑起身，摸了摸荀或发红的眼眶，突然狠狠咬上他的肩膀。剧烈的疼痛使荀或条件反射地扣住赵秦的胳膊，喉间逼出一声短促的“啊”。</div><br />
+<br />
+<div align="left">肩头渗出了血，赵秦松口，平静地看向荀或。</div><br />
+<br />
+<div align="left">荀或伸手揽过赵秦，翻身温柔地把唇凑了上去。他只是轻轻的亲着，一下一下沿着轮廓辗转。他吮`吸着泛着水光的唇瓣，眼里也能映出一汪泉。</div><br />
+<br />
+<div align="left">他抚摸着赵秦的脸，把自己的深深埋在他的肩头，又忍不住有一下没一下地亲着。</div><br />
+<br />
+<div align="left">赵秦深吐了一口气，亲上那渗着血丝的牙印，伸手按住荀或的劲瘦的腰，声音暗哑，“上来。”</div><br />
+<br />
+<div align="left">硬物瞬间戳到大腿，身上的人一手捧着他的脸和他接吻，一手扒下他的裤子摸向胯间。</div><br />
+<br />
+<div align="left">刚泄过的东西并没不慌张，荀或摸了会儿就心里有数了，他用手搓弄着赵秦胸前红粒，大手在囊袋和鼠蹊部轻蹭抚摸。</div><br />
+<br />
+<div align="left">赵秦感到一阵由下而上的痒，双腿无意识地摩擦床单，他的手插入荀或发间，不时换着位置。</div><br />
+<br />
+<div align="left">这难得的热情必然激地荀或欲｀火攻心，方才自己并未做完，此刻下`身已经硬烫得厉害，他隔着内裤戳赵秦已经高翘的东西，口中搅弄地愈发激烈，在听到赵秦失神地发出“嗯啊”声时，两腿夹紧赵秦的双腿，深红粗涨的性｀器猛插进白`皙的大腿内侧。</div><br />
+<br />
+<div align="left">肩被重重抓住，刚刚出血的地方一阵痛，荀或把赵秦翻了个身，“啪”地拍上他的屁股，附着薄茧的手掌按揉他挺翘的臀瓣，柔软细腻的手感让他俯下`身来不由亲吻。</div><br />
+<br />
+<div align="left">赵秦跪在床上挺起腰臀，他感到眼眶湿涩，身体开始升温，难言的舒服和隐隐的痒让他忍不住收缩穴｀口。荀或按下心头的急欲，掰开他的臀瓣，轻轻碰触那处的褶皱，引得赵秦轻晃了臀。他用指腹在穴｀口处按压，赵秦脑子里响起一声轻叹，快感隐隐而生。</div><br />
+<br />
+<div align="left">待那处被按压地松软几分，荀或吻上他直挺的脊背，“老婆，没有套子和润滑。”</div><br />
+<br />
+<div align="left">赵秦被他亲的恍惚，心里又暗恨，以前也没见这样就罢手了，装给谁看的！抽手够了床头的凡士林砸过去，“上过别人？”</div><br />
+<br />
+<div align="left">荀或轻咬一口，“只上我老婆。”先没管砸歪的作案工具，重新俯下`身凑上赵秦的后`穴。</div><br />
+<br />
+<div align="left">“啊，我…”转低的字音掩在唇间，赵秦在心里发出一声深深的喟叹。</div><br />
+<br />
+<div align="left">舔弄穴｀口的声音清晰入耳，赵秦羞臊难耐又忍不住享受这酥麻温软的快感，他的眼眶微微泛红，双眼微闭，脚趾分开搓动着。他伸手摸住身下那物，前段已有清透的液体渗出，他情不自禁地撸动，陷在前后夹击的迷茫里。</div><br />
+<br />
+<div align="left">听见他压低的喘声，荀或再忍不住，抓来凡士林厚厚地抹上柱体，又抠了一大块挤压着一只手指转进了赵秦的后`穴。那内壁又窄又湿，勾得荀或发紫的巨物一下一下轻碰着赵秦的大腿。</div><br />
+<br />
+<div align="left">异物侵入的刺痛感被乳液和缓慢推进缓冲，越深入越有一种微痛的舒爽。随着荀或徐徐插进第二根涂满润滑的手指，赵秦抓皱了身下的床单，伏在枕头上茫然地皱着眉头。</div><br />
+<br />
+<div align="left">荀或看他并未表示太疼痛，心下一狠，手指在湿热的穴间抽｀插起来。赵秦啊-啊地压抑着喘声，后`穴热`辣发胀的触感让他甚至几乎停下了前端的撸动。在这异样的酥胀间，疼痛渐渐退散，紧致的穴道被撑开，像是要容纳更多更大的东西一般，他甚至隐约感受到液体随着抽动黏连摩擦。</div><br />
+<br />
+<div align="left">“老婆，我进来了。”</div><br />
+</td></tr></table>
+
+
+</div>
+<div id="comment_1920500" class="cm">
+</div>
+
+<div id="post_rate_div_1920500"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr id="_postposition1920500"></tr>
+<tr>
+<td class="plc" style="overflow:visible;--> width:100%">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="cmmnt" href="forum.php?mod=misc&amp;action=comment&amp;tid=29007&amp;pid=1920500&amp;extra=&amp;page=1" onclick="showWindow('comment', this.href, 'get', 0)">点评</a><a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=13&amp;tid=29007&amp;repquote=1920500&amp;extra=&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" onclick="showWindow('rate', 'forum.php?mod=misc&action=rate&tid=29007&pid=1920500', 'get', -1);return false;">评分</a>
+<a href="javascript:;" onclick="showWindow('miscreport1920500', 'misc.php?mod=report&rtype=post&rid=1920500&tid=29007&fid=13', 'get', -1);return false;">举报</a>
+</p>
+
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+</tr>
+</table>
+</div><div id="post_1920501" ><table id="pid1920501" class="plhin" summary="pid1920501" cellspacing="0" cellpadding="0">
+<tr>
+<td class="plc" style="width:100%">
+<div class="pi" style="height:48px">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=29007&pid=1920501"   id="postnum1920501" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+地板</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<a href="home.php?mod=space&amp;uid=199331" target="_blank" class="xi2 z" style="padding-right:10px;">藏于吾山</a>
+<img class="authicn vm" id="authicon1920501" src="static/image/common/ico_lz.png" />
+&nbsp;楼主<span class="pipe">|</span>
+<em id="authorposton1920501">发表于 2018-2-27 16:21</em>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=29007&amp;page=1&amp;authorid=199331" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_1920501">
+<i class="pstatus"> 本帖最后由 藏于吾山 于 2018-2-27 23:02 编辑 </i><br />
+<br />
+<div align="left">❤<font face="宋体">第四章</font>“<font face="宋体">哼，不说我也知道你喜欢</font>”</div><br />
+<div align="left">粗大的柱体抵进紧致的入口，并非两根手指可比的刺痛使得赵秦不由挣扎，身体前倾下意识想躲开这入侵。</div><br />
+<div align="left">荀或必然不会给他这个机会，他一把搂住赵秦的腰，凶器向前一挺，龟｀头挤进穴｀口，温软的甬道包裹着他的前端，强烈的插入欲猛袭。荀或大口喘息着堪堪抽出一分，又发力撞入。</div><br />
+<div align="left">硬烫的性｀器插入一半，好久不曾体会的撕裂感将隐约的快感压下，赵秦拧紧了眉头，却没伏下挺起的腰臀。荀或扶着他的腰缓缓抽｀插，由着他慢慢习惯这一波又一波的痛感。深紫色的巨棒在白`皙浑圆的臀间抽｀插，深红的穴｀口被缓而重地插入、翻出。赵秦回头看了一眼压在他身上动作的人，昏黄的床头灯下，那人压抑着冲动并不粗暴地让他熟悉相交的触感，与那天冰冷的地上用滚烫的性｀器插入他身体的人重合在一起，身体开始有发热的感觉，他暗自沉迷于这种温度。</div><br />
+<div align="left">荀或借着适应性的抽｀插不断换着角度深深浅浅地试探，性｀器蹭过一点时，赵秦剧烈收缩肛口，酥痒在脑中放大。没等他反应过来，荀或就握住他的臀瓣，在扩张充分的穴道里冲着那点猛然发力。</div><br />
+<div align="left">pia～pia的撞击声混着低哑的呻吟，荀或盯着那交`合处在温暖的甬道里加速挺动，“老婆，爽吗？”</div><br />
+<div align="left">“啊…嗯啊…啊…”回答他的是一声高亢的呻吟。他喜欢极了赵秦的反应，愈发卖力地将性｀器深深捅入泛红的穴｀口。被紧密包裹的快感荀或太久没有感受到了，他连拥带拖把赵秦按在床边，光脚踩在地上。床的高度刚刚好，他啪的拍打赵秦的屁股，重重挺身时压着赵秦的腰迎合他。赵秦听见有渍渍的水声在身后传来，体内火热胀大，被充满，被占有，被操弄，他被身上的男人狠狠干着，那人巨大的性｀器摩擦着自己的内壁，源源不断的热，一阵又一阵撞击的快感…他挺着腰吞吐着硕大性｀器，痛感已被隐隐的空虚与被填满的满足感代替。</div><br />
+<div align="left">“宝贝，还要吗？”荀或突然缓了节奏，几近停下，只用龟｀头搅弄着肠壁，又在其间找寻着位置戳弄。</div><br />
+<div align="left">“操…啊…”赵秦茫然找寻着填满他绵密欲｀望的东西，可后`穴迟迟不动。</div><br />
+<div align="left">“老婆，说要我｀操｀你。”荀或就着插入的姿势把他翻了个身，性｀器在内壁紧紧搅弄旋转，激起极致的快感，荀或发出一声舒服的呻吟，抬起赵秦的腿将他身子拉上，一动一颠之间，性｀器深深嵌入，赵秦在晕眩中不停抚摸着荀或的大腿。</div><br />
+<div align="left">“干我。”他推压着荀或的腿，身子微微凑上。</div><br />
+<div align="left">荀或吻上他的唇，擒住他的舌头在口腔内搅弄吮`吸，性｀器贯穿他的后`穴，在喘息声中深深顶进他的身体。</div><br />
+<div align="left">“啊…哈…啊…”赵秦深粉的那物随着抽弄高高扬起晃动，他费力抽手握上，迎着荀或的操干加速撸动。脸颊的红晕和泛起的泪在难得茫然无措的表情中诱惑着荀或疯狂的挺腰抽｀插。</div><br />
+<div align="left">赵秦手中那物已肿胀不堪、前端不断有汁液渗出，低喘呻吟溢出唇齿。荀或也渐得势头，寻得地方加速戳弄赵秦敏感之处，又辗转深顶前列腺。赵秦在这般刺激下仿若绵绵陷入云海之中，身下不禁一阵收缩，荀或被这夹紧的快感直冲云霄，滚烫的精｀液股股射入穴中。粘稠的液体浇满洞中，赵秦在这突来的浇灌下一股射出，白浊射了荀或一脸，连唇间也沾有腥咸。</div><br />
+<div align="left">荀或挣开迷茫，缓缓地笑了。他轻轻摸着赵秦的臀，听他沉迷的人在他的身下满足地喘息。</div><br />
+<div align="left">他迎着赵秦的脸，舔了舔嘴角的精｀液，轻慢地抽弄身下仍未完全软下的性｀器，发出响亮的水声。射出的精｀液混着润滑液和肠液被堵在穴内，温度宜人，赵秦迟迟不能从这梦里无法经受的云`雨里清醒。在这缓缓的抽｀插中，开始的疼痛已完全感受不到，肠壁得到足够的润滑，粗大的性｀器进出无碍。</div><br />
+<div align="left">垂头的性｀器暂时无法做出再多反应，但赵秦却涌出无限的满足，他睁开双眸，看到一张被浇射的脸。那人迟迟未擦，还将嘴角的污浊舔了干净，一双眼眸比以往的每次都要深沉，望着他时仿佛要把他吸入幽深的黑暗里。</div><br />
+<div align="left">不，怎么会有这种人，看向你时深不见底，进入你时滚烫鲜活。他侵犯你，你却任其操弄，他一望向你，你就不愿挣扎。</div><br />
+<div align="left">是啊，他一望向你，你就不愿挣扎。赵秦软软地躺在床上，胸腔上下伏动。他侧过脸，不愿再看他。</div><br />
+<div align="left">荀或搂过他，交换了体位，让赵秦压靠在自己身上。两人靠在床头，荀或安静地拥着他，让他软绵地靠着自己。</div><br />
+<div align="left">有液体一路融了汗液缓缓滴下，滴落在赵秦脸旁。软热的舌头舔上，小口地亲吻、吮`吸。“喜欢吗？”</div><br />
+<div align="left">他读出这低哑的声音里极大的愉悦，像他此刻的身体那般愉悦。他被掰过脸庞正对着荀或被颜｀射后色｀情无比的脸，一种奇异的精神快感悠然而上。</div><br />
+<div align="left">很喜欢。赵秦的唇角牵出细微的弧度，伸手想摸上这张看起来硬气俊朗的脸。</div><br />
+<div align="left">荀或却是以为他要擦掉那精｀液，将额头轻轻抵上他的，握着他的手抹上白浊，拉到身下涂在自己半插的性｀器上。</div><br />
+<div align="left">赵秦隔着一手粘稠摸上那根微凸起青筋的肉｀棒，稍硬还有紧实的弹性。他被牵着一点一点把射在脸上的精｀液涂抹在那人的性｀器上，涂在两人仍交`合的接口处。再轻微的动作都会扯得那处颤动，有粘液附着肛口的软肉被牵带而出，这处一片黏湿糜烂。</div><br />
+<div align="left">“你在看什么？”荀或吻上赵秦的唇，温柔地轻舔着他的齿缝和唇齿间每一寸内壁。</div><br />
+<div align="left">看，他总是这样，毫不妥协地侵犯你，又无比温柔地俘虏你。</div><br />
+<div align="left">赵秦卡住他的脖颈，顶着他的舌头，含糊地吞吐，“不行了吗？操不动就下去。”</div><br />
+<div align="left">荀或气极，他的宝贝真是轻易不理人，张口就是滚。他挺身一顶，半截硬物顺着润滑插入暖室，“心疼你，憋好久了，你还不领情。”说着又开始有条不紊地顶弄。</div><br />
+<div align="left">“不用你心疼，”赵秦退开荀或的唇，半眯着眼轻晃着身子迎合，“也不差你这一根。”</div><br />
+<div align="left">荀或仿遭重击，喉间压抑不住地呜咽出声。</div><br />
+<div align="left">赵秦余光看到那人剧缩了眉头，宽健的背弯成一个弧度，摸上去有嶙峋的伤痕。原来还会难过啊，他牵动唇角跪在床上，感受内壁滚烫舒适的饱胀，毫不犹豫地重重坐下。</div><br />
+</td></tr></table>
+
+
+</div>
+<div id="comment_1920501" class="cm">
+</div>
+
+<div id="post_rate_div_1920501"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr id="_postposition1920501"></tr>
+<tr>
+<td class="plc" style="overflow:visible;--> width:100%">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="cmmnt" href="forum.php?mod=misc&amp;action=comment&amp;tid=29007&amp;pid=1920501&amp;extra=&amp;page=1" onclick="showWindow('comment', this.href, 'get', 0)">点评</a><a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=13&amp;tid=29007&amp;repquote=1920501&amp;extra=&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" onclick="showWindow('rate', 'forum.php?mod=misc&action=rate&tid=29007&pid=1920501', 'get', -1);return false;">评分</a>
+<a href="javascript:;" onclick="showWindow('miscreport1920501', 'misc.php?mod=report&rtype=post&rid=1920501&tid=29007&fid=13', 'get', -1);return false;">举报</a>
+</p>
+
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+</tr>
+</table>
+</div><div id="post_1920503" ><table id="pid1920503" class="plhin" summary="pid1920503" cellspacing="0" cellpadding="0">
+<tr>
+<td class="plc" style="width:100%">
+<div class="pi" style="height:48px">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=29007&pid=1920503"   id="postnum1920503" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>5</em>条鱼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<a href="home.php?mod=space&amp;uid=199331" target="_blank" class="xi2 z" style="padding-right:10px;">藏于吾山</a>
+<img class="authicn vm" id="authicon1920503" src="static/image/common/ico_lz.png" />
+&nbsp;楼主<span class="pipe">|</span>
+<em id="authorposton1920503">发表于 2018-2-27 16:22</em>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=29007&amp;page=1&amp;authorid=199331" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_1920503">
+<div align="left">❤<font face="宋体">第五章</font>“<font face="宋体">可我这一根巨好用</font>”</div><div align="left"><br />
+</div><div align="left">整根插入的快感激得两人同时发颤，赵秦仿若呻吟般微叹，穴肉吸`吮着那根粗胀的性｀器粘缠地磨动。荀或为这番主动精虫上脑，巨物极为兴奋自发顶上，心下却又涌上难言的惊慌与苦涩。</div><div align="left"><br />
+</div><div align="left">他从一见面就不拒绝不是因为自己吗，他们接吻他性｀器会硬是跟别人也会吗，他侧身不愿看他而后又转身咬他还是厌恶的很吗，又要他上来只是想做了吗…他高｀潮情动又这般上来，对别人也主动…不，这只是他第一次对自己这般，那没遇见的这一年…所以他才会，跟以前不一样…</div><div align="left"><br />
+</div><div align="left">荀或不曾这样着迷过别人，也不曾碰触过别的人，唯一的那次…荀或痛苦地扭过头，饥饿感与无力感如针剂注射入体，前端的兴奋刺激在温暖的洞穴里也有蜷缩之势。</div><div align="left"><br />
+</div><div align="left">他想起那个在冰冷月色下同样一脸冷清的少年，隐忍又无动于衷。那天他太慌张了，怕他出事又怕他突然就消失，在告示大于实际意义的铁链囚禁下失了心智，想帮他逃跑又知这一别不会再见，疯魔之间分身已插入…</div><div align="left"><br />
+</div><div align="left">下`身失了攻势，甬道自然不满。赵秦懒懒看着荀或畏缩退让，突然发力抵这那物起落抽动起来。这个姿势插的极深，攻势之猛荀或完全抵抗不住，他腿间器物被穴间吸弄摩擦催得迅速胀硬。荀或眼前昂头不时轻声呻吟的人与埋身于暗影下沉默无声的人在一片昏黄中错落交织，脑中混沌一团，身下蠢蠢欲动。强烈的抽｀插欲被紧贴腿间的细嫩肌肤撩拨，被缠绵摩擦的内壁挑｀逗，被身上人有意的低吟勾`引，荀或狼狈地按住不断研磨深吸的腰臀，抬眼想寻找一双嘲讽或纵情的眼眸。他想，那眼眸里从来不会有一个强｀奸犯，是他猥琐又恶心地又粘上，自私变态地以为有感情…</div><div align="left"><br />
+</div><div align="left">赵秦喜欢一口一口温柔的舔舐，喜欢来自后方滚烫的刺入塞满，眼下热浪阵阵退去，他看见那人一脸绝望地按住自己，眼神递过一片幽深。下`体粘合处有脉搏在跳动，赵秦看着他张开了嘴，没吐出一个字。看着那人水红色的唇、落下的眉，赵秦吊起嘴角垂下眼笑，“怕我有病啊还是嫌我松？”他卡住荀或的脖子，“你插我的时候我没嫌过你，你今天就别TM想跑。”赵秦一口咬上半张的唇，皓齿相磕。他卷上那温热的舌，双腿盘上荀或劲瘦的腰，跨上轻微用力耸动。他摸着荀或的脸，轻佻搅弄了一番的唇舌舔上荀或耳廓，他压低了声音，“老公，操我。”</div><div align="left"><br />
+</div><div align="left">后庭瞬时被热烫的巨物猛刺，赵秦被一掌压在耳侧，他并未看到荀或眼眶发红无声滚泪的模样，却在下`体饱胀痉挛时仍感觉到有温度的液体滴落在肩头。身下的攻势愈来愈猛，赵秦发了一头热汗，深紫色的性｀器毫不留情地进入他，顶撞他的前列腺，激得他几次不住呻吟。他舔上荀或的脸，温咸的潮湿被黏糊地吻走，赵秦的脚背无意识地蹭着荀或的腰。迎合着紧密有力的入侵，赵秦像被巨浪掀翻拍打在跌宕的海潮中，又像被灌入一重一重的热气，碰撞、混沌、他被掀上浪尖云端，他按着荀或的发，深喘着，“别…不要…啊…啊…”身下却并无丝毫停歇，一波一波的红云袭来，赵秦抵开荀或的间想要伸手释放憋胀的前端，却被荀或扣了双手在背后按向自己的臀｀部。</div><div align="left"><br />
+</div><div align="left">荀或纠缠着唇舌，一手捧着赵秦的脸，顺着一记猛插将人压在身下，就着这个姿势接连操入。</div><div align="left"><br />
+</div><div align="left">赵秦在持久猛烈的快感中喷射出两三股液体，落在荀或胸前又缓缓流下。他喘息着睁眼，身上的人仍拧着眉强硬地挺入，愈来愈重的呼吸声预示着有高｀潮将近。</div><div align="left"><br />
+</div><div align="left">赵秦感受着身体内性｀器的轮廓与力量，他想抹开因为他而拧起的眉、发红的眼框，想叫他慢点、别急，他张口，“荀或…”</div><div align="left">一股热流喷入后`穴深处，赵秦一阵轻颤。高大的身体缓缓压下来，身下半软之物牵连拉出几分，有浓液也连带渗出。荀或又饿又累，他伸手摸来纸巾要抽出泄过的性｀器，却被一只手压下。</div><div align="left"><br />
+</div><div align="left">“会脏，乖。”他仍闭着眼低声喘息，挣开了手向下摸。</div><div align="left"><br />
+</div><div align="left">赵秦一把握住他的手腕拉了上来，身下已能感到粘湿一片溢在腿间。荀或清醒几分，脸离开床单看向身侧，他看着赵秦淌汗的鼻尖，想吻他。倾上前，却又再不敢，他掩下再次发烫的眼底，侧过脸。</div><div align="left"><br />
+</div><div align="left">“疼吗？抽出来洗洗好吗？塞久了会发烧。”荀或只得尽量撑着身子怕压着身下的人，阻止他抽身是…再来的意思吗？荀或只觉得肠胃像搅在了一起，间或地刺痛，再来肯定是不行了。</div><div align="left"><br />
+</div><div align="left">他不太敢放肆，赵秦刚喊的老公…荀或不敢再想，一时的助兴对吧。他又有什么资格在清醒的时候吻他、喊他老婆、喊他宝贝？痴心妄想的回应，浅薄的磨碎的感情，荀或一时间分外计较，那句“不差你这一根”…他感到心上一阵抽痛。</div><div align="left"><br />
+</div><div align="left">不抽，暖和。赵秦留恋这种温度。荀或没有拥抱，也没有吻过来，他要抽身离开，他连宝贝也不敢喊了。赵秦散了一脸潮红，没得到想要的温柔安抚，他连轻飘飘的“滚”都说不出口。他该怎么办，他没拥过来的话。赵秦心下自嘲一番，一句话能吓跑变态就好了。癔怔间荀或突然挣脱快速抽出性｀器，背对着赵秦蜷缩成一团。</div><div align="left"><br />
+</div><div align="left">赵秦忍着身下将流的淫液翻身，看到荀或用手盖着脸，隐约地略带痛苦。</div><div align="left"><br />
+</div><div align="left">“怎么了？”他拨开荀或的手，看到一张眉头紧皱咬唇的脸。</div><div align="left"><br />
+</div><div align="left">“没事儿，晚上没吃饭，可能是胃痛，回去吃点东西就好了。”荀或马上挣扎着起身，想去拿蹭掉在地的衣服。</div><div align="left"><br />
+</div><div align="left">赵秦赤身进了客厅又马上回来，荀或套了内裤正在穿裤子。赵秦拨掉他炼拎起裤腰的手，一块圆形蛋糕递在他眼前，“赶紧吃。”</div><div align="left"><br />
+</div><div align="left">荀或没犹豫掰了块塞进嘴里，一阵狼吞虎咽后痛感果然消失许多。荀或擦了一头虚汗，突然反应过来这蛋糕的来源。“是晚上…那个…那个的？”他又觉得一股胀气冲上头，难掩的气恼，又一瞬间反应过来自己的处境，丧气地垂坐在床沿上。</div><div align="left"><br />
+</div><div align="left">“啊，好吃的话你就跟她说说。”赵秦裸着身趴在床上，身后的穴｀口深红，泛着点点白灼，“还疼不疼，要胃药吗？”</div><div align="left"><br />
+</div><div align="left">“好了，刚就是饿的了。”荀或感到有些丢人，三下两除吃完蛋糕，并不打算给赵秦留。</div><div align="left"><br />
+</div><div align="left">吃饱后色胆又回归，他忍不住摸上赵秦的臀，“去浴室，我帮你清理。”</div><div align="left"><br />
+</div><div align="left">赵秦转过头撑着脸朝向他，哼笑一声说，“你叫我什么？”</div><div align="left"><br />
+</div><div align="left">荀或猛地弯腰，试探地触碰他的额头，“宝贝，我帮你把我的精｀液弄出来…”</div><div align="left"><br />
+</div><div align="left">赵秦嗤的笑了，心想果然狗改不了吃屎。</div><div align="left"><br />
+</div><div align="left">荀或见他没拒绝的意味，便斗胆吻上他的嘴角，抱他踉跄了几步进了浴室。</div><br />
+</td></tr></table>
+
+
+</div>
+<div id="comment_1920503" class="cm">
+</div>
+
+<div id="post_rate_div_1920503"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr id="_postposition1920503"></tr>
+<tr>
+<td class="plc" style="overflow:visible;--> width:100%">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="cmmnt" href="forum.php?mod=misc&amp;action=comment&amp;tid=29007&amp;pid=1920503&amp;extra=&amp;page=1" onclick="showWindow('comment', this.href, 'get', 0)">点评</a><a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=13&amp;tid=29007&amp;repquote=1920503&amp;extra=&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" onclick="showWindow('rate', 'forum.php?mod=misc&action=rate&tid=29007&pid=1920503', 'get', -1);return false;">评分</a>
+<a href="javascript:;" onclick="showWindow('miscreport1920503', 'misc.php?mod=report&rtype=post&rid=1920503&tid=29007&fid=13', 'get', -1);return false;">举报</a>
+</p>
+
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+</tr>
+</table>
+</div><div id="post_1920504" ><table id="pid1920504" class="plhin" summary="pid1920504" cellspacing="0" cellpadding="0">
+<tr>
+<td class="plc" style="width:100%">
+<div class="pi" style="height:48px">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=29007&pid=1920504"   id="postnum1920504" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>6</em>条鱼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<a href="home.php?mod=space&amp;uid=199331" target="_blank" class="xi2 z" style="padding-right:10px;">藏于吾山</a>
+<img class="authicn vm" id="authicon1920504" src="static/image/common/ico_lz.png" />
+&nbsp;楼主<span class="pipe">|</span>
+<em id="authorposton1920504">发表于 2018-2-27 16:24</em>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=29007&amp;page=1&amp;authorid=199331" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_1920504">
+<div align="left">❤<font face="宋体">第六章</font>“<font face="宋体">我老婆只和我困觉</font>”</div><div align="left"><br />
+</div><div align="left">花洒下的一滩水还没排干净，浴室墙壁上凝着小粒的水汽，荀或扫了一眼室内，莫名心潮浮动。他坐在马桶上，两腿大张，把怀里的人翻了个身，用膝盖固定住。</div><div align="left"><br />
+</div><div align="left">地面被冲刷的还算干净，赵秦双手撑着地，腰腹正对荀或胯间，他的臀｀部挺翘白`皙，穴｀口嘀嗒着浊液泥泞不堪。荀或调试好花洒冲净了手，一手握住臀峰一手轻插入穴｀口微微向下扯弄。肠液混着精｀液随着手指搅弄发出扑哧的响动，荀或感觉下`体又有振兴之势，隐隐从内裤里苏醒。他咬牙加快扣动，又插入一指深入穴洞，抠挖的淫液顺着肛口流下，他的大腿上沾染了不少。</div><div align="left"><br />
+</div><div align="left">“老婆，”荀或看着随着指间抠弄轻喘起伏的脊背，忍不住亲上晃动的臀尖，“你刚洗澡的时候在干什么？”他想起赵秦刚刚被摸了好久才抬头的性｀器和自己蒙着被子半天无法发泄的情｀欲，手指不由探寻某个开关，小心挤压。</div><div align="left"><br />
+</div><div align="left">“嗯…啊…”赵秦在心里日他几辈子祖宗，挣扎着要起来，腿却被牢牢卡着。“干什么，干的多了。”</div><div align="left"><br />
+</div><div align="left">“那宝贝儿都想着谁干？”荀或顺口而出，心头却是一紧。</div><div align="left"><br />
+</div><div align="left">赵秦只觉得好笑，这个狗东西，“想着一个…啊——”身后手指迅速抽出，一口热气呼地喷洒在穴｀口，酥痒瞬间袭来。</div><div align="left"><br />
+</div><div align="left">荀或不想听到什么扎心的话，掰开赵秦的大腿俯身吸了上去。穴内残留的精｀液随着吮`吸发热，湿痒难耐堵住了赵秦的脑子，他完全不能思考，只低着头一声声喘息。</div><div align="left"><br />
+</div><div align="left">舌尖按压着褶皱挤进洞口，模拟着抽｀插的动作，实则将洞口附近的精｀液舔了个干净。等荀或退离赵秦的股间，穴｀口看起来整洁许多，只闪着微微水光。他捡起花洒调温了水又降了强度，一手掰开赵秦的臀瓣，一手凑上轻轻冲洗着穴间。</div><div align="left"><br />
+</div><div align="left">赵秦刚从温软的口舌中缓过来，又感受到一股持续的冲击刺入后庭，他感受到一只手又挤开自己的后`穴，让那股温热源源不断的灌入。身体被大腿颠起，温度又升了几分，他的甬道被灌满了水，撑胀地腹部都要圆润起来。</div><div align="left"><br />
+</div><div align="left">“王八蛋…要爆炸了。”他一口咬上荀或的小腿。</div><div align="left"><br />
+</div><div align="left">荀或关了淋浴把人抱了起来，让他正面相拥坐在自己腿上，身下有淅沥沥的水声落下，他得意地蹭着赵秦的脸，“宝贝想尿吗？”</div><div align="left"><br />
+</div><div align="left">“操不尿就想这种烂主意吗？”赵秦揽住他的肩又一脸嘲讽，可惜这人看不见。</div><div align="left"><br />
+</div><div align="left">身下水声渐歇，抵在荀或小腹的硬物却仍未松懈，还有勾`引自己的愈来愈弯的节奏。荀或仔仔细细捧着赵秦的脸亲吻，碰到唇部是并未探入纠缠，只浅浅盖了个戳退开。</div><div align="left"><br />
+</div><div align="left">“给我个机会，操射你，操的你尿出来，我再帮你舔干净。”荀或贴上赵秦的身体，把他拥入怀中，一口一口亲着他的肩，他感受着小腹的硬度，满足又委屈，“别找别人。”</div><div align="left"><br />
+</div><div align="left">手被扣着握上性｀器，荀或耳边一声轻叹。一阵疾风劲雨般的撸动，伴随着荀或绵密的口舌之交，一股清稀的液体射在荀或腹肌上。“只被你干过，”那人轻喘着靠在自己身上，“狗货，满意了吗？”</div><div align="left"><br />
+</div><div align="left">荀或的满意是把他上上下下亲了个干净，黏黏糊糊的和一身精｀液的自己一起又冲了个澡。他觉得再憋屈的事情都沾染了快乐，所有的脏污不能都洗的干净，但他心上的人愿意藏污纳垢而且只藏他一滩，还谈什么原谅不原谅的呢？他对他有一整颗的心要捧上，荀或想。</div><div align="left"><br />
+</div><div align="left">“去把衣服捡了扔洗衣机里，衣柜里床单换了。”赵秦横了一眼要跟出来的人，他走出门把晚上的生意简单清理清理。</div><div align="left"><br />
+</div><div align="left">狭小的储物间浸着麻辣烫的味儿，他今晚也是抽风了才先去洗了澡…然后…又洗了个澡…赵秦迅速收拾了下锁上门，抬头看到漆黑的天幕上竟有难得的星辰闪烁。月亮是有的，被紧密的居民楼遮挡，又将在某处漏下光辉。</div><div align="left"><br />
+</div><div align="left">污暗的世界里也有星星和月光，尽管并非时时刻刻都能看到，但它们与夜幕同存。</div><div align="left"><br />
+</div><div align="left">门从里面打开，荀或站在灯光下喊他，“老婆，睡觉了…”</div><div align="left"><br />
+</div><div align="left">**</div><div align="left"><br />
+</div><div align="left">卧室的地被拖了干净，床单也铺的整齐，荀或躺在床上等他，那双眼睛好像很久以前他们第一次见面的模样。</div><div align="left"><br />
+</div><div align="left">待他躺好熄了灯，荀或突然挤到他身上，胯下轻轻顶着他的屁股蹭了蹭，“宝贝儿你好，我叫荀或。”说完顺势把他侧抱入怀，在后脑勺亲了一下。</div><div align="left"><br />
+</div><div align="left">“狗货，”他曲腿抵了抵身后，“老子要睡觉。”</div><div align="left"><br />
+</div><div align="left">赵秦将要睡着，只觉身后拱来拱去，他一脚踹过去，“滚过去睡。”</div><div align="left"><br />
+</div><div align="left">那人又抱上来，黏黏腻腻地亲他，“老婆…你刚刚说只有我上过你…”那人哼哼唧唧的，“那你…上过别人吗？”说完又亲个没完。</div><div align="left"><br />
+</div><div align="left">他干脆转过身堵住他的嘴，两人亲了一阵轻喘着分开。“要不你来当第一个，反正我早上没事儿。”赵秦说着假意压上腿。</div><div align="left"><br />
+</div><div align="left">“不要，”荀或搂紧了怀里的人，“只能我伺候我老婆。”</div><div align="left"><br />
+</div><div align="left">终于乖了，两人慢慢睡着，一夜无梦。</div><div align="left"> &lt;完&gt;</div><br />
+</td></tr></table>
+
+
+</div>
+<div id="comment_1920504" class="cm">
+</div>
+
+<div id="post_rate_div_1920504"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr id="_postposition1920504"></tr>
+<tr>
+<td class="plc" style="overflow:visible;--> width:100%">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="cmmnt" href="forum.php?mod=misc&amp;action=comment&amp;tid=29007&amp;pid=1920504&amp;extra=&amp;page=1" onclick="showWindow('comment', this.href, 'get', 0)">点评</a><a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=13&amp;tid=29007&amp;repquote=1920504&amp;extra=&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" onclick="showWindow('rate', 'forum.php?mod=misc&action=rate&tid=29007&pid=1920504', 'get', -1);return false;">评分</a>
+<a href="javascript:;" onclick="showWindow('miscreport1920504', 'misc.php?mod=report&rtype=post&rid=1920504&tid=29007&fid=13', 'get', -1);return false;">举报</a>
+</p>
+
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+</tr>
+</table>
+</div><div id="post_1920593" ><table id="pid1920593" class="plhin" summary="pid1920593" cellspacing="0" cellpadding="0">
+<tr>
+<td class="plc" style="width:100%">
+<div class="pi" style="height:48px">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=29007&pid=1920593"   id="postnum1920593" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>7</em>条鱼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<a href="home.php?mod=space&amp;uid=187672" target="_blank" class="xi2 z" style="padding-right:10px;">欲饮琵琶马上催</a>
+<img class="authicn vm" id="authicon1920593" src="static/image/common/online_member.gif" />
+<em id="authorposton1920593">发表于 2018-2-27 22:35</em>
+<span class="xg1">来自手机</span>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=29007&amp;page=1&amp;authorid=187672" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_1920593">
+嘤嘤嘤好萌</td></tr></table>
+
+
+</div>
+<div id="comment_1920593" class="cm">
+</div>
+
+<div id="post_rate_div_1920593"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr id="_postposition1920593"></tr>
+<tr>
+<td class="plc" style="overflow:visible;--> width:100%">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="cmmnt" href="forum.php?mod=misc&amp;action=comment&amp;tid=29007&amp;pid=1920593&amp;extra=&amp;page=1" onclick="showWindow('comment', this.href, 'get', 0)">点评</a><a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=13&amp;tid=29007&amp;repquote=1920593&amp;extra=&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" onclick="showWindow('rate', 'forum.php?mod=misc&action=rate&tid=29007&pid=1920593', 'get', -1);return false;">评分</a>
+<a href="javascript:;" onclick="showWindow('miscreport1920593', 'misc.php?mod=report&rtype=post&rid=1920593&tid=29007&fid=13', 'get', -1);return false;">举报</a>
+</p>
+
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+</tr>
+</table>
+</div><div id="post_1920597" ><table id="pid1920597" class="plhin" summary="pid1920597" cellspacing="0" cellpadding="0">
+<tr>
+<td class="plc" style="width:100%">
+<div class="pi" style="height:48px">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=29007&pid=1920597"   id="postnum1920597" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>8</em>条鱼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<a href="home.php?mod=space&amp;uid=194758" target="_blank" class="xi2 z" style="padding-right:10px;">萌cp的小透明</a>
+<img class="authicn vm" id="authicon1920597" src="static/image/common/online_member.gif" />
+<em id="authorposton1920597">发表于 2018-2-27 22:46</em>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=29007&amp;page=1&amp;authorid=194758" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_1920597">
+还是个小甜饼～<br />
+完结撒花～给大大打call～</td></tr></table>
+
+
+</div>
+<div id="comment_1920597" class="cm">
+</div>
+
+<div id="post_rate_div_1920597"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr id="_postposition1920597"></tr>
+<tr>
+<td class="plc" style="overflow:visible;--> width:100%">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="cmmnt" href="forum.php?mod=misc&amp;action=comment&amp;tid=29007&amp;pid=1920597&amp;extra=&amp;page=1" onclick="showWindow('comment', this.href, 'get', 0)">点评</a><a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=13&amp;tid=29007&amp;repquote=1920597&amp;extra=&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" onclick="showWindow('rate', 'forum.php?mod=misc&action=rate&tid=29007&pid=1920597', 'get', -1);return false;">评分</a>
+<a href="javascript:;" onclick="showWindow('miscreport1920597', 'misc.php?mod=report&rtype=post&rid=1920597&tid=29007&fid=13', 'get', -1);return false;">举报</a>
+</p>
+
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+</tr>
+</table>
+</div><div id="post_1920605" ><table id="pid1920605" class="plhin" summary="pid1920605" cellspacing="0" cellpadding="0">
+<tr>
+<td class="plc" style="width:100%">
+<div class="pi" style="height:48px">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=29007&pid=1920605"   id="postnum1920605" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>9</em>条鱼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<a href="home.php?mod=space&amp;uid=199331" target="_blank" class="xi2 z" style="padding-right:10px;">藏于吾山</a>
+<img class="authicn vm" id="authicon1920605" src="static/image/common/ico_lz.png" />
+&nbsp;楼主<span class="pipe">|</span>
+<em id="authorposton1920605">发表于 2018-2-27 23:03</em>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=29007&amp;page=1&amp;authorid=199331" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_1920605">
+<div class="quote"><blockquote><font size="2"><a href="http://fishlovemeat.site/forum.php?mod=redirect&amp;goto=findpost&amp;pid=1920593&amp;ptid=29007" target="_blank"><font color="#999999">欲饮琵琶马上催 发表于 2018-2-27 22:35</font></a></font><br />
+嘤嘤嘤好萌</blockquote></div><br />
+<img src="static/image/smiley/peipei/15.gif" smilieid="168" border="0" alt="" />嘻嘻，攻蠢萌蠢萌的<br />
+</td></tr></table>
+
+
+</div>
+<div id="comment_1920605" class="cm">
+</div>
+
+<div id="post_rate_div_1920605"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr id="_postposition1920605"></tr>
+<tr>
+<td class="plc" style="overflow:visible;--> width:100%">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="cmmnt" href="forum.php?mod=misc&amp;action=comment&amp;tid=29007&amp;pid=1920605&amp;extra=&amp;page=1" onclick="showWindow('comment', this.href, 'get', 0)">点评</a><a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=13&amp;tid=29007&amp;repquote=1920605&amp;extra=&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" onclick="showWindow('rate', 'forum.php?mod=misc&action=rate&tid=29007&pid=1920605', 'get', -1);return false;">评分</a>
+<a href="javascript:;" onclick="showWindow('miscreport1920605', 'misc.php?mod=report&rtype=post&rid=1920605&tid=29007&fid=13', 'get', -1);return false;">举报</a>
+</p>
+
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+</tr>
+</table>
+</div><div id="post_1920606" ><table id="pid1920606" class="plhin" summary="pid1920606" cellspacing="0" cellpadding="0">
+<tr>
+<td class="plc" style="width:100%">
+<div class="pi" style="height:48px">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=29007&pid=1920606"   id="postnum1920606" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>10</em>条鱼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<a href="home.php?mod=space&amp;uid=199331" target="_blank" class="xi2 z" style="padding-right:10px;">藏于吾山</a>
+<img class="authicn vm" id="authicon1920606" src="static/image/common/ico_lz.png" />
+&nbsp;楼主<span class="pipe">|</span>
+<em id="authorposton1920606">发表于 2018-2-27 23:05</em>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=29007&amp;page=1&amp;authorid=199331" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_1920606">
+<div class="quote"><blockquote><font size="2"><a href="http://fishlovemeat.site/forum.php?mod=redirect&amp;goto=findpost&amp;pid=1920597&amp;ptid=29007" target="_blank"><font color="#999999">萌cp的小透明 发表于 2018-2-27 22:46</font></a></font><br />
+还是个小甜饼～<br />
+完结撒花～给大大打call～</blockquote></div><br />
+么么哒，谢谢小天使～<br />
+第一次磕肉文…这么短磕了半个月<img src="static/image/smiley/comcom/5.gif" smilieid="104" border="0" alt="" />小辣鸡～<br />
+</td></tr></table>
+
+
+</div>
+<div id="comment_1920606" class="cm">
+</div>
+
+<div id="post_rate_div_1920606"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr id="_postposition1920606"></tr>
+<tr>
+<td class="plc" style="overflow:visible;--> width:100%">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="cmmnt" href="forum.php?mod=misc&amp;action=comment&amp;tid=29007&amp;pid=1920606&amp;extra=&amp;page=1" onclick="showWindow('comment', this.href, 'get', 0)">点评</a><a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=13&amp;tid=29007&amp;repquote=1920606&amp;extra=&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" onclick="showWindow('rate', 'forum.php?mod=misc&action=rate&tid=29007&pid=1920606', 'get', -1);return false;">评分</a>
+<a href="javascript:;" onclick="showWindow('miscreport1920606', 'misc.php?mod=report&rtype=post&rid=1920606&tid=29007&fid=13', 'get', -1);return false;">举报</a>
+</p>
+
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+</tr>
+</table>
+</div><div id="post_1920836" ><table id="pid1920836" class="plhin" summary="pid1920836" cellspacing="0" cellpadding="0">
+<tr>
+<td class="plc" style="width:100%">
+<div class="pi" style="height:48px">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=29007&pid=1920836"   id="postnum1920836" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>11</em>条鱼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<a href="home.php?mod=space&amp;uid=182839" target="_blank" class="xi2 z" style="padding-right:10px;">feizao</a>
+<img class="authicn vm" id="authicon1920836" src="static/image/common/online_member.gif" />
+<em id="authorposton1920836">发表于 2018-3-1 01:02</em>
+<span class="xg1">来自手机</span>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=29007&amp;page=1&amp;authorid=182839" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_1920836">
+受被别人囚禁过？一时没看明白，最后很好吃</td></tr></table>
+
+
+</div>
+<div id="comment_1920836" class="cm">
+</div>
+
+<div id="post_rate_div_1920836"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr id="_postposition1920836"></tr>
+<tr>
+<td class="plc" style="overflow:visible;--> width:100%">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="cmmnt" href="forum.php?mod=misc&amp;action=comment&amp;tid=29007&amp;pid=1920836&amp;extra=&amp;page=1" onclick="showWindow('comment', this.href, 'get', 0)">点评</a><a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=13&amp;tid=29007&amp;repquote=1920836&amp;extra=&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" onclick="showWindow('rate', 'forum.php?mod=misc&action=rate&tid=29007&pid=1920836', 'get', -1);return false;">评分</a>
+<a href="javascript:;" onclick="showWindow('miscreport1920836', 'misc.php?mod=report&rtype=post&rid=1920836&tid=29007&fid=13', 'get', -1);return false;">举报</a>
+</p>
+
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+</tr>
+</table>
+</div><div id="post_1920863" ><table id="pid1920863" class="plhin" summary="pid1920863" cellspacing="0" cellpadding="0">
+<tr>
+<td class="plc" style="width:100%">
+<div class="pi" style="height:48px">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=29007&pid=1920863"   id="postnum1920863" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>12</em>条鱼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<a href="home.php?mod=space&amp;uid=189562" target="_blank" class="xi2 z" style="padding-right:10px;">春帷不揭</a>
+<img class="authicn vm" id="authicon1920863" src="static/image/common/online_member.gif" />
+<em id="authorposton1920863">发表于 2018-3-1 11:06</em>
+<span class="xg1">来自手机</span>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=29007&amp;page=1&amp;authorid=189562" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_1920863">
+萌萌哒 么么啾大大</td></tr></table>
+
+
+</div>
+<div id="comment_1920863" class="cm">
+</div>
+
+<div id="post_rate_div_1920863"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr id="_postposition1920863"></tr>
+<tr>
+<td class="plc" style="overflow:visible;--> width:100%">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="cmmnt" href="forum.php?mod=misc&amp;action=comment&amp;tid=29007&amp;pid=1920863&amp;extra=&amp;page=1" onclick="showWindow('comment', this.href, 'get', 0)">点评</a><a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=13&amp;tid=29007&amp;repquote=1920863&amp;extra=&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" onclick="showWindow('rate', 'forum.php?mod=misc&action=rate&tid=29007&pid=1920863', 'get', -1);return false;">评分</a>
+<a href="javascript:;" onclick="showWindow('miscreport1920863', 'misc.php?mod=report&rtype=post&rid=1920863&tid=29007&fid=13', 'get', -1);return false;">举报</a>
+</p>
+
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+</tr>
+</table>
+</div><div id="post_1920869" ><table id="pid1920869" class="plhin" summary="pid1920869" cellspacing="0" cellpadding="0">
+<tr>
+<td class="plc" style="width:100%">
+<div class="pi">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=29007&pid=1920869"   id="postnum1920869" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>13</em>条鱼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon1920869" src="static/image/common/online_member.gif" />
+ 匿名红烧鱼<em id="authorposton1920869">发表于 2018-3-1 11:54</em>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_1920869">
+捧大脸，好吃好吃</td></tr></table>
+
+
+</div>
+<div id="comment_1920869" class="cm">
+</div>
+
+<div id="post_rate_div_1920869"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr id="_postposition1920869"></tr>
+<tr>
+<td class="plc" style="overflow:visible;--> width:100%">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="cmmnt" href="forum.php?mod=misc&amp;action=comment&amp;tid=29007&amp;pid=1920869&amp;extra=&amp;page=1" onclick="showWindow('comment', this.href, 'get', 0)">点评</a><a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=13&amp;tid=29007&amp;repquote=1920869&amp;extra=&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" onclick="showWindow('rate', 'forum.php?mod=misc&action=rate&tid=29007&pid=1920869', 'get', -1);return false;">评分</a>
+<a href="javascript:;" onclick="showWindow('miscreport1920869', 'misc.php?mod=report&rtype=post&rid=1920869&tid=29007&fid=13', 'get', -1);return false;">举报</a>
+</p>
+
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+</tr>
+</table>
+</div><div id="post_1920972" ><table id="pid1920972" class="plhin" summary="pid1920972" cellspacing="0" cellpadding="0">
+<tr>
+<td class="plc" style="width:100%">
+<div class="pi" style="height:48px">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=29007&pid=1920972"   id="postnum1920972" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>14</em>条鱼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<a href="home.php?mod=space&amp;uid=27789" target="_blank" class="xi2 z" style="padding-right:10px;">若有人知春去处</a>
+<img class="authicn vm" id="authicon1920972" src="static/image/common/online_member.gif" />
+<em id="authorposton1920972">发表于 2018-3-2 12:57</em>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=29007&amp;page=1&amp;authorid=27789" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_1920972">
+这肉炖得很入味。</td></tr></table>
+
+
+</div>
+<div id="comment_1920972" class="cm">
+</div>
+
+<div id="post_rate_div_1920972"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr id="_postposition1920972"></tr>
+<tr>
+<td class="plc" style="overflow:visible;--> width:100%">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="cmmnt" href="forum.php?mod=misc&amp;action=comment&amp;tid=29007&amp;pid=1920972&amp;extra=&amp;page=1" onclick="showWindow('comment', this.href, 'get', 0)">点评</a><a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=13&amp;tid=29007&amp;repquote=1920972&amp;extra=&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" onclick="showWindow('rate', 'forum.php?mod=misc&action=rate&tid=29007&pid=1920972', 'get', -1);return false;">评分</a>
+<a href="javascript:;" onclick="showWindow('miscreport1920972', 'misc.php?mod=report&rtype=post&rid=1920972&tid=29007&fid=13', 'get', -1);return false;">举报</a>
+</p>
+
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+</tr>
+</table>
+</div><div id="post_1921267" ><table id="pid1921267" class="plhin" summary="pid1921267" cellspacing="0" cellpadding="0">
+<tr>
+<td class="plc" style="width:100%">
+<div class="pi" style="height:48px">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=29007&pid=1921267"   id="postnum1921267" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>15</em>条鱼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<a href="home.php?mod=space&amp;uid=198470" target="_blank" class="xi2 z" style="padding-right:10px;">mua</a>
+<img class="authicn vm" id="authicon1921267" src="static/image/common/online_member.gif" />
+<em id="authorposton1921267">发表于 2018-3-5 00:59</em>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=29007&amp;page=1&amp;authorid=198470" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_1921267">
+好好吃~表白太太˵ •́ o •̀ ˵</td></tr></table>
+
+
+</div>
+<div id="comment_1921267" class="cm">
+</div>
+
+<div id="post_rate_div_1921267"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr id="_postposition1921267"></tr>
+<tr>
+<td class="plc" style="overflow:visible;--> width:100%">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="cmmnt" href="forum.php?mod=misc&amp;action=comment&amp;tid=29007&amp;pid=1921267&amp;extra=&amp;page=1" onclick="showWindow('comment', this.href, 'get', 0)">点评</a><a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=13&amp;tid=29007&amp;repquote=1921267&amp;extra=&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" onclick="showWindow('rate', 'forum.php?mod=misc&action=rate&tid=29007&pid=1921267', 'get', -1);return false;">评分</a>
+<a href="javascript:;" onclick="showWindow('miscreport1921267', 'misc.php?mod=report&rtype=post&rid=1921267&tid=29007&fid=13', 'get', -1);return false;">举报</a>
+</p>
+
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+</tr>
+</table>
+</div><div id="post_1921368" ><table id="pid1921368" class="plhin" summary="pid1921368" cellspacing="0" cellpadding="0">
+<tr>
+<td class="plc" style="width:100%">
+<div class="pi" style="height:48px">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=29007&pid=1921368"   id="postnum1921368" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>16</em>条鱼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<a href="home.php?mod=space&amp;uid=22605" target="_blank" class="xi2 z" style="padding-right:10px;">klset</a>
+<img class="authicn vm" id="authicon1921368" src="static/image/common/online_member.gif" />
+<em id="authorposton1921368">发表于 2018-3-6 09:11</em>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=29007&amp;page=1&amp;authorid=22605" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_1921368">
+我有些看不懂剧情( •̥́ ˍ •̀ू )</td></tr></table>
+
+
+</div>
+<div id="comment_1921368" class="cm">
+</div>
+
+<div id="post_rate_div_1921368"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr id="_postposition1921368"></tr>
+<tr>
+<td class="plc" style="overflow:visible;--> width:100%">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="cmmnt" href="forum.php?mod=misc&amp;action=comment&amp;tid=29007&amp;pid=1921368&amp;extra=&amp;page=1" onclick="showWindow('comment', this.href, 'get', 0)">点评</a><a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=13&amp;tid=29007&amp;repquote=1921368&amp;extra=&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" onclick="showWindow('rate', 'forum.php?mod=misc&action=rate&tid=29007&pid=1921368', 'get', -1);return false;">评分</a>
+<a href="javascript:;" onclick="showWindow('miscreport1921368', 'misc.php?mod=report&rtype=post&rid=1921368&tid=29007&fid=13', 'get', -1);return false;">举报</a>
+</p>
+
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+</tr>
+</table>
+</div><div id="post_1921435" ><table id="pid1921435" class="plhin" summary="pid1921435" cellspacing="0" cellpadding="0">
+<tr>
+<td class="plc" style="width:100%">
+<div class="pi" style="height:48px">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=29007&pid=1921435"   id="postnum1921435" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>17</em>条鱼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<a href="home.php?mod=space&amp;uid=185541" target="_blank" class="xi2 z" style="padding-right:10px;">闲云鹤语</a>
+<img class="authicn vm" id="authicon1921435" src="static/image/common/online_member.gif" />
+<em id="authorposton1921435">发表于 2018-3-6 22:39</em>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=29007&amp;page=1&amp;authorid=185541" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_1921435">
+一口气完结好评<img src="static/image/smiley/comcom/23.gif" smilieid="109" border="0" alt="" /></td></tr></table>
+
+
+</div>
+<div id="comment_1921435" class="cm">
+</div>
+
+<div id="post_rate_div_1921435"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr id="_postposition1921435"></tr>
+<tr>
+<td class="plc" style="overflow:visible;--> width:100%">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="cmmnt" href="forum.php?mod=misc&amp;action=comment&amp;tid=29007&amp;pid=1921435&amp;extra=&amp;page=1" onclick="showWindow('comment', this.href, 'get', 0)">点评</a><a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=13&amp;tid=29007&amp;repquote=1921435&amp;extra=&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" onclick="showWindow('rate', 'forum.php?mod=misc&action=rate&tid=29007&pid=1921435', 'get', -1);return false;">评分</a>
+<a href="javascript:;" onclick="showWindow('miscreport1921435', 'misc.php?mod=report&rtype=post&rid=1921435&tid=29007&fid=13', 'get', -1);return false;">举报</a>
+</p>
+
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+</tr>
+</table>
+</div><div id="post_1921442" ><table id="pid1921442" class="plhin" summary="pid1921442" cellspacing="0" cellpadding="0">
+<tr>
+<td class="plc" style="width:100%">
+<div class="pi" style="height:48px">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=29007&pid=1921442"   id="postnum1921442" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>18</em>条鱼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<a href="home.php?mod=space&amp;uid=199331" target="_blank" class="xi2 z" style="padding-right:10px;">藏于吾山</a>
+<img class="authicn vm" id="authicon1921442" src="static/image/common/ico_lz.png" />
+&nbsp;楼主<span class="pipe">|</span>
+<em id="authorposton1921442">发表于 2018-3-6 23:37</em>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=29007&amp;page=1&amp;authorid=199331" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_1921442">
+本来是个中篇(*/ω＼最近太忙了，又卡文～后有空的话会续～还有几个场景想写，顺便也把剧情撸顺～其实写到这儿，如果不是只吃肉的话。小天使们应该能大致看出来前面发生过什么的，希望后面能把番外填完吧～</td></tr></table>
+
+
+</div>
+<div id="comment_1921442" class="cm">
+</div>
+
+<div id="post_rate_div_1921442"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr id="_postposition1921442"></tr>
+<tr>
+<td class="plc" style="overflow:visible;--> width:100%">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="cmmnt" href="forum.php?mod=misc&amp;action=comment&amp;tid=29007&amp;pid=1921442&amp;extra=&amp;page=1" onclick="showWindow('comment', this.href, 'get', 0)">点评</a><a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=13&amp;tid=29007&amp;repquote=1921442&amp;extra=&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" onclick="showWindow('rate', 'forum.php?mod=misc&action=rate&tid=29007&pid=1921442', 'get', -1);return false;">评分</a>
+<a href="javascript:;" onclick="showWindow('miscreport1921442', 'misc.php?mod=report&rtype=post&rid=1921442&tid=29007&fid=13', 'get', -1);return false;">举报</a>
+</p>
+
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+</tr>
+</table>
+</div><div id="postlistreply" class="pl"><div id="post_new" class="viewthread_table" style="display: none"></div></div>
+</div>
+
+
+<form method="post" autocomplete="off" name="modactions" id="modactions">
+<input type="hidden" name="formhash" value="5e3fa289" />
+<input type="hidden" name="optgroup" />
+<input type="hidden" name="operation" />
+<input type="hidden" name="listextra" value="" />
+<input type="hidden" name="page" value="1" />
+</form>
+
+
+
+<div class="pgs mtm mbm cl">
+<span class="pgb y"><a href="forum.php?mod=forumdisplay&amp;fid=13">返回列表</a></span>
+<a id="newspecialtmp" onmouseover="$('newspecial').id = 'newspecialtmp';this.id = 'newspecial';showMenu({'ctrlid':this.id})" onclick="location.href='forum.php?mod=post&action=newthread&fid=13';return false;" href="javascript:;" title="发新帖"><img src="static/image/common/pn_post.png" alt="发新帖" /></a>
+<a id="post_replytmp" onclick="showWindow('reply', 'forum.php?mod=post&action=reply&fid=13&tid=29007')" href="javascript:;" title="回复"><img src="static/image/common/pn_reply.png" alt="回复" /></a>
+</div>
+
+<!--[diy=diyfastposttop]--><div id="diyfastposttop" class="area"></div><!--[/diy]-->
+<script type="text/javascript">
+var postminchars = parseInt('4');
+var postmaxchars = parseInt('30000');
+var disablepostctrl = parseInt('0');
+</script>
+
+<div id="f_pst" class="pl bm bmw">
+<form method="post" autocomplete="off" id="fastpostform" action="forum.php?mod=post&amp;action=reply&amp;fid=13&amp;tid=29007&amp;extra=&amp;replysubmit=yes&amp;infloat=yes&amp;handlekey=fastpost" onSubmit="return fastpostvalidate(this)">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls">
+<div class="avatar avtm"><img src="http://139.162.49.50/uc_center/avatar.php?uid=191058&size=middle" /></div></td>
+<td class="plc">
+
+<span id="fastpostreturn"></span>
+
+<div class="cl">
+<div id="fastsmiliesdiv" class="y"><div id="fastsmiliesdiv_data"><div id="fastsmilies"></div></div></div><div class="hasfsl" id="fastposteditor">
+<div class="tedt mtn">
+<div class="bar">
+<span class="y">
+<a href="forum.php?mod=post&amp;action=reply&amp;fid=13&amp;tid=29007" onclick="return switchAdvanceMode(this.href)">高级模式</a>
+</span><script src="data/cache/seditor.js?tE9" type="text/javascript"></script>
+<div class="fpd">
+<a href="javascript:;" title="文字加粗" class="fbld" onclick="seditor_insertunit('fastpost', '[b]', '[/b]');doane(event);">B</a>
+<a href="javascript:;" title="设置文字颜色" class="fclr" id="fastpostforecolor" onclick="showColorBox(this.id, 2, 'fastpost');doane(event);">Color</a>
+<a id="fastpostimg" href="javascript:;" title="图片" class="fmg" onclick="seditor_menu('fastpost', 'img');doane(event);">Image</a>
+<a id="fastposturl" href="javascript:;" title="添加链接" class="flnk" onclick="seditor_menu('fastpost', 'url');doane(event);">Link</a>
+<a id="fastpostquote" href="javascript:;" title="引用" class="fqt" onclick="seditor_menu('fastpost', 'quote');doane(event);">Quote</a>
+<a id="fastpostcode" href="javascript:;" title="代码" class="fcd" onclick="seditor_menu('fastpost', 'code');doane(event);">Code</a>
+<a href="javascript:;" class="fsml" id="fastpostsml" onclick="showMenu({'ctrlid':this.id,'evt':'click','layer':2});return false;">Smilies</a>
+<script type="text/javascript" reload="1">smilies_show('fastpostsmiliesdiv', 8, 'fastpost');</script>
+<script src="data/cache/at.js?tE9" type="text/javascript"></script>
+<a id="fastpostat" href="javascript:;" title="@朋友" class="fat" onclick="seditor_menu('fastpost', 'at');doane(event);">@朋友</a>
+</div></div>
+<div class="area">
+<textarea rows="6" cols="80" name="message" id="fastpostmessage" onKeyDown="seditor_ctlent(event, 'fastpostvalidate($(\'fastpostform\'))');" tabindex="4" class="pt"></textarea>
+</div>
+</div>
+</div>
+</div>
+<div id="seccheck_fastpost">
+</div>
+
+
+<input type="hidden" name="formhash" value="5e3fa289" />
+<input type="hidden" name="usesig" value="1" />
+<input type="hidden" name="subject" value="  " />
+<p class="ptm pnpost">
+<a href="home.php?mod=spacecp&amp;ac=credit&amp;op=rule&amp;fid=13" class="y" target="_blank">本版积分规则</a>
+<button type="submit" onmouseover="checkpostrule('seccheck_fastpost', 'ac=reply');this.onmouseover=null" name="replysubmit" id="fastpostsubmit" class="pn pnc vm" value="replysubmit" tabindex="5"><strong>发表回复</strong></button>
+<label for="isanonymous"><input type="checkbox" name="isanonymous" id="isanonymous" class="pc" value="1">使用匿名发帖</label>
+<label for="fastpostrefresh"><input id="fastpostrefresh" type="checkbox" class="pc" />回帖后跳转到最后一页</label>
+<script type="text/javascript">if(getcookie('fastpostrefresh') == 1) {$('fastpostrefresh').checked=true;}</script>
+</p>
+</td>
+</tr>
+</table>
+</form>
+</div>
+
+
+<div id="md_15_menu" class="tip tip_4" style="display: none;">
+<div class="tip_horn"></div>
+<div class="tip_c">
+<h4>10积分礼包</h4>
+<p></p>
+</div>
+</div>
+<script type="text/javascript">
+new lazyload();
+</script>
+<script type="text/javascript">document.onkeyup = function(e){keyPageScroll(e, 0, 0, 'forum.php?mod=viewthread&tid=29007', 1);}</script>
+</div>
+
+<div class="wp mtn">
+<!--[diy=diy3]--><div id="diy3" class="area"></div><!--[/diy]-->
+</div>
+
+<script type="text/javascript">
+function succeedhandle_followmod(url, msg, values) {
+var fObj = $('followmod_'+values['fuid']);
+if(values['type'] == 'add') {
+fObj.innerHTML = '不收听';
+fObj.href = 'home.php?mod=spacecp&ac=follow&op=del&fuid='+values['fuid'];
+} else if(values['type'] == 'del') {
+fObj.innerHTML = '收听TA';
+fObj.href = 'home.php?mod=spacecp&ac=follow&op=add&hash=5e3fa289&fuid='+values['fuid'];
+}
+}
+fixed_top_nv();
+</script>	</div>
+<div id="ft" class="wp cl">
+<div id="flk" class="y">
+<p>
+<a href="forum.php?mobile=yes" title="我是手机版耶耶耶~" >手机版</a><span class="pipe">|</span><a href="javascript:;" title="^^"  onclick="showWindow('miscreport', 'misc.php?mod=report&url='+REPORTURL);return false;">举报</a><span class="pipe">|</span><a href="forum.php?mod=misc&action=showdarkroom" title="不听话就关小黑屋！"  style="color: gray">小黑屋</a><span class="pipe">|</span><strong><a href="" target="_blank">两学一做<°)))>彡 </a></strong>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?6dc8c593faac02555277212cac149826";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script></p>
+<p class="xs0">
+GMT+8, 2018-7-17 09:29<span id="debuginfo">
+, Processed in 0.061824 second(s), 30 queries
+.
+</span>
+</p>
+</div>
+<div id="frt">
+<p>Powered by <strong><a href="http://www.discuz.net" target="_blank">Discuz!</a></strong> <em>X3.2</em></p>
+<p class="xs0">&copy; 2001-2013 <a href="http://www.comsenz.com" target="_blank">Comsenz Inc.</a></p>
+</div><script type="text/javascript">
+var invisiblestatus = '在线';
+var loginstatusobj = $('loginstatusid');
+if(loginstatusobj != undefined && loginstatusobj != null) loginstatusobj.innerHTML = invisiblestatus;
+</script>
+</div>
+<div class="focus plugin" id="ip_notice"></div>
+<script type="text/javascript">ipNotice();</script>
+<div id="scrolltop">
+<span><a href="forum.php?mod=post&amp;action=reply&amp;fid=13&amp;tid=29007&amp;extra=&amp;page=1" onclick="showWindow('reply', this.href)" class="replyfast" title="快速回复"><b>快速回复</b></a></span>
+<span hidefocus="true"><a title="返回顶部" onclick="window.scrollTo('0','0')" class="scrolltopa" ><b>返回顶部</b></a></span>
+<span>
+<a href="forum.php?mod=forumdisplay&amp;fid=13" hidefocus="true" class="returnlist" title="返回列表"><b>返回列表</b></a>
+</span>
+</div>
+<script type="text/javascript">_attachEvent(window, 'scroll', function () { showTopLink(); });checkBlind();</script>
+</body>
+</html>

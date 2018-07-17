@@ -1,0 +1,20 @@
+_ga	GA1.2.2066645986.1492089596
+Hm_lvt_6dc8c593faac02555277212cac149826	1503034809
+xyQi_2132_atarget	1
+xyQi_2132_auth	3d18PqVXX65VFlJD17VyjZo9nP90G1SoQlTacUPkEHqxYxqHXKCoTVZ86sshTs9vSjc9tVufs5m5sqxRvPMMr8gkFG4
+xyQi_2132_forum_lastvisit	D_13_1531709749
+xyQi_2132_lastact	1531709957 misc.php patch
+xyQi_2132_lastcheckfeed	191058|1531708618
+xyQi_2132_lastvisit	1531704992
+xyQi_2132_lip	112.17.237.160,1531707091
+xyQi_2132_nofavfid	1
+xyQi_2132_onlineusernum	142
+xyQi_2132_saltkey	Myj25vXV
+xyQi_2132_sendmail	1
+xyQi_2132_sid	PU2X5h
+xyQi_2132_smile	4D1
+xyQi_2132_st_p	191058|1531709955|a247e4e43538657f7be7beac4e2ce461
+xyQi_2132_st_t	191058|1531709749|5912e479f707e8bf439fef82e73b6abc
+xyQi_2132_ulastactivity	e8a9KNdRGnItGnRXR6jmafos85G+5sIgW4pFIjS1aCf7lzDye0jM
+xyQi_2132_viewid	tid_29209
+xyQi_2132_visitedfid	13D14
